@@ -1,11 +1,15 @@
 ---
 layout: page
-title: About
+title: About me
 ---
 
 <p class="message">
-  Hey there! This page is included as an example. Feel free to customize it for your own use upon downloading. Carry on!
+  Howdy! This is the start of an online display of a growing collection of work, articles, research, etc. 
 </p>
+
+## Me
+
+My name is Anish Shah, a resident physician with an interest in programming, biostatistics, epidemiology, and cardiology. 
 
 ## Setup
 
