@@ -1,12 +1,12 @@
 # Dependencies
-markdown:         redcarpet
+markdown:         kramdown
 highlighter:      rouge
 
 # Permalinks
 permalink:        pretty
 
 # Setup
-title:            Base Camp
+title:            base camp
 tagline:          'First attempt at the web'
 description:      'Markdown-based approach for all the things.'
 url:              http://asshah4.github.io
@@ -29,4 +29,4 @@ github:
   twitter:
 
 # Gems
-plugins: [jekyll-paginate, jekyll-gist, redcarpet]
+plugins: [jekyll-paginate, jekyll-gist]
