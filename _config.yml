@@ -10,7 +10,7 @@ title:            base camp
 tagline:          'First attempt at the web'
 description:      'Markdown-based approach for all the things.'
 url:              http://asshah4.github.io
-baseurl:          /
+baseurl:          
 
 author:
   name:           'Anish Shah'
