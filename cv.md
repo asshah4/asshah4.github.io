@@ -91,19 +91,19 @@ Histology Tutor, 2013
 
 Emory University School of Medicine  
 J. Willis Hurst Internal Medicine Residency Program  
-Lotions and Ointments and Creams, Oh My!  
+*Lotions and Ointments and Creams, Oh My!*  
 Bite-Sized Teaching Mode Conference  
 February 28, 2018  
   
 Emory University School of Medicine  
 J. Willis Hurst Internal Medicine Residency Program  
-The Problem Learner: A history and physical for learners with difficulties  
+*The Problem Learner: A history and physical for learners with difficulties*  
 Lecture for Distinction in Teaching and Leadership Conference  
 March 15, 2018  
   
 Emory University School of Medicine  
 J. Willis Hurst Internal Medicine Residency Program  
-Intervention of Ischemic Stroke: Thrombectomy in 6 to 16 Hours with Selection by Perfusion Imaging  
+*Intervention of Ischemic Stroke: Thrombectomy in 6 to 16 Hours with Selection by Perfusion Imaging*  
 Journal Club Conference  
 March 21, 2018  
 
@@ -111,7 +111,7 @@ March 21, 2018
 
 Emory University School of Medicine  
 Department of Medicine  
-Parasternal Long Axis View  
+*Parasternal Long Axis View*  
 Lecture for Faculty Development Conference  
 November 16, 2017  
 
@@ -195,47 +195,47 @@ ASA 101 Basic Keelboat (2017 — present)
 
 ###	Institutional  
   
-Cortisol Levels in Rhesus Monkeys with Maternal Separation Over Longitudinal Cohorts  
+*Cortisol Levels in Rhesus Monkeys with Maternal Separation Over Longitudinal Cohorts*  
 **Anish Shah**, Mar Sanchez PhD  
 Poster Presentation  
 Scholarly Inquiry and Research at Emory Research Partners Symposium  
 Atlanta, Georgia  
 April 21, 2009  
   
-Long-Term Outcomes of Newborns with Necrotizing Enterocolitis: a retrospective matched cohort study  
+*Long-Term Outcomes of Newborns with Necrotizing Enterocolitis: a retrospective matched cohort study*  
 **Anish Shah**, Emily Sanders*, Mary Mrdutt MD, Lena Perger MD  
 Texas A&M University College of Medicine Research Symposium, 1st Place  
 Temple, Texas  
 April 12, 2016  
   
-Long-Term Outcomes of Newborns with Necrotizing Enterocolitis: a retrospective matched cohort study  
+*Long-Term Outcomes of Newborns with Necrotizing Enterocolitis: a retrospective matched cohort study*  
 **Anish Shah***, Emily Sanders, Mary Mrdutt MD, Lena Perger MD  
 Scott & White Healthcare Academic Operations Research Day  
 Temple, Texas  
 May 5 2016  
   
-Association of Ischemia with Heart Rate Variability  
+*Association of Ischemia with Heart Rate Variability*  
 **Anish Shah MD***, Amit Shah MD MSCR  
 Poster Presentation  
 Emory Internal Medicine Resident Research Day  
 Atlanta, Georgia  
 April 3, 2018  
   
-The Largest IVC: the examination of torrential tricuspid regurgitation in the setting of peripartum cardiomyopathy  
+*The Largest IVC: the examination of torrential tricuspid regurgitation in the setting of peripartum cardiomyopathy*  
 Birju Rao MD*, **Anish Shah MD**, Stephen D. Clements MD  
 Poster Presentation  
 Mr. William E. Booth and Dr. James Zaidan Grady Resident Research Day  
 Atlanta, Georgia  
 May 30, 2018  
   
-More than Mono: Epstein Barr virus mimicking malignancy  
+*More than Mono: Epstein Barr virus mimicking malignancy*  
 Gabriel Aleixo*, **Anish Shah MD**, Fuad El Rassi MD  
 Poster Presentation  
 Mr. William E. Booth and Dr. James Zaidan Grady Resident Research Day  
 Atlanta, Georgia  
 May 30, 2018  
   
-Association of Ischemia with Heart Rate Variability  
+*Association of Ischemia with Heart Rate Variability*  
 **Anish Shah MD***, Amit Shah MD MSCR  
 Poster Presentation  
 Mr. William E. Booth and Dr. James Zaidan Grady Resident Research Day  
@@ -244,26 +244,26 @@ May 30, 2018
   
 ### Regional  
   
-Influence of the Acoustic Parameter of Pitch on Emotion and Focus Location in Statements using Ditransitive Verb Manipulations  
+*Influence of the Acoustic Parameter of Pitch on Emotion and Focus Location in Statements using Ditransitive Verb Manipulations*  
 **Anish Shah**, Yu Li PhD  
 Poster Presentation  
 Great Lakes Expo for Experimental and Formal Undergraduate Linguistics, Michigan State University, East Lansing, Michigan  
 April 23, 2011  
   
-Illuminating the Case of a Rare GI Bleed  
+*Illuminating the Case of a Rare GI Bleed*  
 **Anish Shah***, Austin Metting MD  
 Poster Presentation  
 American College of Physicians Texas Chapter Conference  
 November 7, 2015  
   
-Three’s company: nocardiosis, neuroendocrine hyperplasia, and breast cancer  
+*Three’s company: nocardiosis, neuroendocrine hyperplasia, and breast cancer*  
 **Anish Shah MD***, Stephen D. Clements MD, Matthew Dudgeon MD PhD  
 Poster Presentation  
 American College of Physicians Georgia Chapter Conference  
 Savannah, Georgia  
 September 30, 2017  
   
-Three’s company: nocardiosis, neuroendocrine hyperplasia, and breast cancer  
+*Three’s company: nocardiosis, neuroendocrine hyperplasia, and breast cancer*  
 **Anish Shah MD***, Stephen D. Clements MD, Matthew Dudgeon MD PhD  
 Poster Presentation  
 Southern Hospital Medicine Conference  
@@ -272,21 +272,21 @@ October 19, 2017
   
 ### National  
   
-Genetic Linkage Analysis for Cystic Fibrosis Related Diabetes  
+*Genetic Linkage Analysis for Cystic Fibrosis Related Diabetes*  
 **Anish Shah**, Scott Blackman MD PhD  
 Poster Presentation  
 NIDDK Medical Student Research Symposium at Vanderbilt University  
 Vanderbilt University, Nashville, Tennessee  
 August 2015  
   
-Long-Term Outcomes of Newborns with Necrotizing Enterocolitis: a retrospective matched cohort study  
+*Long-Term Outcomes of Newborns with Necrotizing Enterocolitis: a retrospective matched cohort study*  
 **Anish Shah**, Emily Sanders, Mary Mrdutt MD*, Lena Perger MD  
 Oral Presentation  
 Annual Meeting of the Canadian Association of Pediatric Surgery  
 Vancouver, Canada  
 September 22-24, 2017  
   
-Circadian Autonomic Inflexibility: a Marker of Ischemic Heart Disease  
+*Circadian Autonomic Inflexibility: a Marker of Ischemic Heart Disease*  
 **Anish Shah MD***, Rachel Lampert MD, Jack Goldberg PhD, J. Douglas Bremner MD, Viola Vaccarino MD PhD, Amit Shah MD MSCR  
 Presentation [submitted]  
 American Heart Association Scientific Sessions  
@@ -323,5 +323,10 @@ Birju, R, **Shah, AS**, Clements, SD. “The Largest IVC: the examination of tor
   
 ### Active Projects  
   
+**Shah, AS**, Alvaro, A, Whitsel, E, Vaccarino, V, Shah, AJ. “Heart Rate Variability and Psychosocial States: an Atherosclerosis Risk In Communities study”. Research Proposal Accepted, October 2017.  
+
 **Shah, AS**, Evans, M, Akbashev, M. “Point-Of-Care Ultrasonography Utility in Resident Learning and Clinical Decision Making”. IRB Approval, Emory University, Atlanta, Georgia, March, 2018.  
   
+**Shah, AS**, Lampert R, Goldberg, J, Bremner, JD, Vaccarino, V, Shah, AJ. “Circadian Autonomic Inflexibility: a Marker of Ischemic Heart Disease”. Manuscript Submitted, JAMA Cardiology, June 2018.  
+
+
