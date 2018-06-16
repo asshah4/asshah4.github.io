@@ -19,7 +19,7 @@ author:
 paginate:         5
 
 # Custom vars
-version:          0.2.0
+version:          0.3.0
 
 github:
   repo:           https://github.com/asshah4/asshah4.github.io
