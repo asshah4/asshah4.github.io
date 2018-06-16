@@ -4,8 +4,6 @@ title: Curriculum vitae
 ---
 
 
-# Curriculum Vitae
-
 ## Personal information
 
 ### Name
