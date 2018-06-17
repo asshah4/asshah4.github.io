@@ -15,3 +15,5 @@ Black pearls | lessons in clinical medicine
 Code blue | snippets of useful code with an amateur biostatistics bent
 
 The actually Github repositories that are focused on research will have limited documentation due to confidentiality, but aspects that haven been helpful will be given their separate pages/posts. 
+
+UPDATE: All the sites appear to be working, and are now available for posting.
