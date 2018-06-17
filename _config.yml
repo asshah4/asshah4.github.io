@@ -14,7 +14,6 @@ baseurl:
 
 author:
   name:           'Anish Shah'
-  url:            https://twitter.com/
 
 paginate:         5
 
@@ -24,9 +23,10 @@ version:          0.3.0
 github:
   repo:           https://github.com/asshah4/asshah4.github.io
 
-# Includes icon in footer for footer links based on username
-  github: asshah4
-  twitter:
+# Social media links and icons
+github_username: asshah4
+facebook_username: asshah4
+linkedin_username:
 
 # Gems
 plugins: [jekyll-paginate, jekyll-gist]
