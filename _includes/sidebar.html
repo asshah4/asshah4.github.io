@@ -44,6 +44,12 @@
       </a>
       {% endif %}
 
+	  { if site.author.email %}
+	  <a href="mailto:{{ site.author.email }}">
+		  <i class="far fa-envelope"></i>
+	  </a>
+	  {% endif %}
+
       <span class="sidebar-nav-item">Currently v{{ site.version }}</span>
     </nav>
 
