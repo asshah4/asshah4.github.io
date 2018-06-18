@@ -32,13 +32,14 @@
       <a class="sidebar-nav-item" href="{{ site.github.repo }}">GitHub</a>
 
 	  <!-- social buttons -->
-      {% if site.github_username %}
-      <a href="https://github.com/{{site.github_username}}" target="_blank" style="text-decoration:none">
+      {% if site.author.github %}
+	  <a href="https://github.com/{{ site.author.github }}">
         <i class="fa fa-fw fa-github"></i>
       </a>
       {% endif %}
-      {% if site.facebook_username %}
-      <a href="https://www.facebook.com/{{ site.facebook_username }}" target="_blank" style="text-decoration:none">
+
+      {% if site.author.facebook %}
+      <a href="https://www.facebook.com/{{ site.author.facebook }}">
         <i class="fa fa-fw fa-facebook"></i>
       </a>
       {% endif %}

@@ -13,7 +13,10 @@ url:              http://asshah4.github.io
 baseurl:          
 
 author:
-  name:           'Anish Shah'
+  name: 'Anish Shah'
+  email: 'asshah4[at]email[dot]emory[dot]edu'
+  github: asshah4
+  facebook: asshah4
 
 paginate:         5
 
@@ -24,8 +27,6 @@ github:
   repo:           https://github.com/asshah4/asshah4.github.io
 
 # Social media links and icons
-github_username: asshah4
-facebook_username: asshah4
 
 # Gems
 plugins: [jekyll-paginate, jekyll-gist]
