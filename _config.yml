@@ -26,7 +26,6 @@ github:
 # Social media links and icons
 github_username: asshah4
 facebook_username: asshah4
-linkedin_username:
 
 # Gems
 plugins: [jekyll-paginate, jekyll-gist]
