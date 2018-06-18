@@ -29,7 +29,6 @@
 	  <a class="sidebar-nav-item" href="https://asshah4.github.io/ultrasound">Ultrasound reckoning</a>
 	  <a class="sidebar-nav-item" href="https://asshah4.github.io/pearls">Black pearls</a>
 	  <a class="sidebar-nav-item" href="https://asshah4.github.io/code">Code blue</a>
-      <a class="sidebar-nav-item" href="{{ site.github.repo }}">GitHub</a>
 
 	  <!-- social buttons -->
       {% if site.author.github %}
@@ -44,11 +43,11 @@
       </a>
       {% endif %}
 
-	  { if site.author.email %}
-	  <a href="mailto:{{ site.author.email }}">
-		  <i class="far fa-envelope"></i>
-	  </a>
-	  {% endif %}
+      {% if site.author.email %}
+      <a href="mailto:{{ site.author.email }}">
+        <i class="fa fa-fw fa-envelope"></i>
+      </a>
+      {% endif %}
 
       <span class="sidebar-nav-item">Currently v{{ site.version }}</span>
     </nav>
