@@ -37,10 +37,22 @@
       </a>
       {% endif %}
 
+      {% if site.author.stackoverflow %}
+      <a href="https://www.stackoverflow.com/u/{{ site.author.facebook }}">
+        <i class="fab fa-fw fa-stack-overflow"></i>
+      </a>
+      {% endif %}
+
       {% if site.author.facebook %}
       <a href="https://www.facebook.com/{{ site.author.facebook }}">
         <i class="fab fa-fw fa-facebook-f"></i>
       </a>
+      {% endif %}
+
+	  {% if site.author.twitter %}
+	  <a href="https://twitter.com/{{ site.author.twitter }}">
+		  <i class="fab fa-fw fa-twitter"></i>
+	  </a>
       {% endif %}
 
       {% if site.author.email %}
