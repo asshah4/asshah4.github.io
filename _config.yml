@@ -7,7 +7,7 @@ permalink:        pretty
 
 # Setup
 title:            base camp
-tagline:          'First attempt at the web'
+tagline:          'home page'
 description:      'Markdown-based approach for all the things'
 url:              http://asshah4.github.io
 baseurl:          
@@ -32,4 +32,4 @@ github:
 google_analytics: UA-121075166-1
 
 # Gems
-plugins: [jekyll-paginate, jekyll-gist]
+plugins: [jekyll-paginate, jekyll-gist, jekyll-sitemap]
