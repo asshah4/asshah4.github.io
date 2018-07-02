@@ -326,14 +326,14 @@ Birju, R, **Shah, AS**, Clements, SD. “The Largest IVC: the examination of tor
   
 ### Projects
 
-**Heart Rate Variability and Psychosocial States: an Atherosclerosis Risk In Communities study**
-April 2017 — present
+**Heart Rate Variability and Psychosocial States: an Atherosclerosis Risk In Communities study**  
+April 2017 — present  
 We are studying the relationship between changes in heart rate variability (HRV) and psychosocial states in longitudinal cohorts as a part of the ARIC (Atherosclerosis Risk In Communities) study. Using different measures of psychosocial stress, include social support, exhaustion, and anger. We are using different HRV methods, including time domain (e.g. SDNN, RMSSD, pNN50) and frequency domain (e.g HF, LF, VLF), as the effect of defined stressors on the autonomic nervous system, and how it associates with cardiovascular disease. We are using linear regression modeling to study this association, along with hazard models to show the effect over time. This project is under the supervision of Amit Shah, MD MSCR. 
 
-**Point-Of-Care Ultrasonography Utility in Resident Learning and Clinical Decision Making**
-October 2017 — present
+**Point-Of-Care Ultrasonography Utility in Resident Learning and Clinical Decision Making**  
+October 2017 — present  
 This is an ongoing project studying how the use of point-of-care ultrasonography (POCUS) at bedside by internal medicine residents can effect outcomes and clinical decision making. We are studying how effective the curriculum deployed at the J. Willis Hurst Internal Medicine Residency Program will effect confidence in image interpretation and subsequent decision-making in regards to patient care.
   
-**Circadian Autonomic Inflexibility: a Marker of Ischemic Heart Disease** 
-April 2017 — July 2018
+**Circadian Autonomic Inflexibility: a Marker of Ischemic Heart Disease**  
+April 2017 — July 2018  
 As a large fraction of sudden cardiac deaths (SCD) occur in those without known coronary artery disease, we looked at additional methods for risk-stratification. Autonomic dysfunction, measured by low heart rate variability (HRV), can occur with myocardial ischemia. We looked at a large, well characterized group of middle-aged veteran twins without known coronary artery disease, and studied the association of 24-hour HRV measures and myocardial perfusion imaging. We used mixed effect models to study this relationship, hypothesizing that low morning HRV would be associated with myocardial ischemia due to circadian autonomic inflexibility.
