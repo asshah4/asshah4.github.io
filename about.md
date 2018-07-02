@@ -3,13 +3,11 @@ layout: page
 title: About me
 ---
 
-<p class="message">
-  Howdy! This is the start of an online display of a growing collection of work, articles, research, etc. 
-</p>
+> Howdy! This is the start of an online display of a growing collection of work, articles, research, etc. 
 
 ## Me
 
-My name is Anish Shah, a resident physician with an interest in programming, biostatistics, epidemiology, and cardiology. 
+My name is Anish Shah, a resident physician with an interest in programming, biostatistics, epidemiology, and cardiology. I'm an avid rock-climber, enjoy playing the piano, and love hanging out with my dog.
 
 ## Setup
 
