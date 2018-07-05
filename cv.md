@@ -89,7 +89,7 @@ Histology Tutor, 2013
 
 Emory University School of Medicine  
 J. Willis Hurst Internal Medicine Residency Program  
-**Senior Resident**  
+*Senior Resident*  
 Grady Wards, January 2018  
 Grady Hematology Service, February 2018  
 VA Wards, April 2018  
