@@ -87,6 +87,16 @@ Tutor in Biology, Chemistry, and Physics, 2011 — 2012
 Texas A&M University College of Medicine  
 Histology Tutor, 2013  
 
+Emory University School of Medicine  
+J. Willis Hurst Internal Medicine Residency Program  
+**Senior Resident**
+Grady Wards, January 2018
+Grady Hematology Service, February 2018
+VA Wards, April 2018
+Emory University Hospital Heart Failure Service, July 2018
+Grady Wards, August 2018
+Grady MICU, April 2019
+
 ###	Residency Program Teaching
 
 Emory University School of Medicine  
@@ -277,7 +287,7 @@ October 19, 2017
 Poster Presentation  
 NIDDK Medical Student Research Symposium at Vanderbilt University  
 Vanderbilt University, Nashville, Tennessee  
-August 2015  
+August 2014  
   
 *Long-Term Outcomes of Newborns with Necrotizing Enterocolitis: a retrospective matched cohort study*  
 **Anish Shah**, Emily Sanders, Mary Mrdutt MD*, Lena Perger MD  
@@ -308,23 +318,15 @@ Mrdutt, M, **Shah, AS**, Sanders, Mallett, L, Perger, LP. “Long-Term Outcomes 
   
 ### Abstracts  
   
-**Shah, AS**, Blackman, S. “Genetic Linkage Analysis for Cystic Fibrosis Related Diabetes”. Poster Presentation, National Institute of Diabetes and Digestive and Kidney Diseases Medical Student Research Symposium at Vanderbilt University, Nashville, Tennessee, August 2015.  
+**Shah, AS**, Blackman, S. “Genetic Linkage Analysis for Cystic Fibrosis Related Diabetes”. National Institute of Diabetes and Digestive and Kidney Diseases Medical Student Research Symposium at Vanderbilt University, Nashville, Tennessee, August 2014.  
   
-Mrdutt, M, **Shah, AS**, Sanders, Mallett, L, Perger, LP. “Long-Term Outcomes of Newborns with Necrotizing Enterocolitis: a retrospective matched cohort study”. Oral Presentation, Annual Meeting of the Canadian Association of Pediatric Surgery Conference, September 2017.  
+Mrdutt, M, **Shah, AS**, Sanders, Mallett, L, Perger, LP. “Long-Term Outcomes of Newborns with Necrotizing Enterocolitis: a retrospective matched cohort study”. Annual Meeting of the Canadian Association of Pediatric Surgery Conference, September 2017.  
   
-**Shah, AS**, Clements, SD, Dudgeon, M. “Three’s company: nocardiosis, neuroendocrine hyperplasia, and breast cancer”. Poster Presentation, Emory University Division of Hospital Medicine Clinical Vignette Poster Competition, Atlanta, Georgia, September 2017.  
-  
-**Shah, AS**, Clements, SD, Dudgeon, M. “Three’s company: nocardiosis, neuroendocrine hyperplasia, and breast cancer”. Poster Presentation, American College of Physicians Georgia Chapter Conference, Savannah, Georgia, September 2017.  
-  
-**Shah, AS**, Clements, SD, Dudgeon, M. “Three’s company: nocardiosis, neuroendocrine hyperplasia, and breast cancer”. Poster Presentation, Southern Hospital Medicine Conference, New Orleans, Louisiana, October 2017.  
-  
-Aleixo, G, **Shah, AS**, El Rassi, F. “More than Mono: Epstein Barr virus mimicking malignancy”. Poster Presentation, Mr. William E. Booth and Dr. James Zaidan Grady Resident Research Day, Atlanta, Georgia, May 2018.  
-  
-Birju, R, **Shah, AS**, Clements, SD. “The Largest IVC: the examination of torrential tricuspid regurgitation in the setting of peripartum cardiomyopathy”. Poster Presentation, Mr. William E. Booth and Dr. James Zaidan Grady Resident Research Day, Atlanta, Georgia, May 2018.  
+**Shah, AS**, Clements, SD, Dudgeon, M. “Three’s company: nocardiosis, neuroendocrine hyperplasia, and breast cancer”. Southern Hospital Medicine Conference, New Orleans, Louisiana, October 2017.  
   
 **Shah, AS**, Lampert R, Goldberg, J, Bremner, JD, Vaccarino, V, Shah, AJ. “Circadian Autonomic Inflexibility: a Marker of Ischemic Heart Disease”. American Heart Association Scientific Sessions, Chicago, Illinois, November 2018 [submitted]  
   
-### Projects
+### Active Projects
 
 **Heart Rate Variability and Psychosocial States: an Atherosclerosis Risk In Communities study**  
 April 2017 — present  
@@ -335,5 +337,5 @@ October 2017 — present
 This is an ongoing project studying how the use of point-of-care ultrasonography (POCUS) at bedside by internal medicine residents can effect outcomes and clinical decision making. We are studying how effective the curriculum deployed at the J. Willis Hurst Internal Medicine Residency Program will effect confidence in image interpretation and subsequent decision-making in regards to patient care.
   
 **Circadian Autonomic Inflexibility: a Marker of Ischemic Heart Disease**  
-April 2017 — July 2018  
+April 2017 — present  
 As a large fraction of sudden cardiac deaths (SCD) occur in those without known coronary artery disease, we looked at additional methods for risk-stratification. Autonomic dysfunction, measured by low heart rate variability (HRV), can occur with myocardial ischemia. We looked at a large, well characterized group of middle-aged veteran twins without known coronary artery disease, and studied the association of 24-hour HRV measures and myocardial perfusion imaging. We used mixed effect models to study this relationship, hypothesizing that low morning HRV would be associated with myocardial ischemia due to circadian autonomic inflexibility.
