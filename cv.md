@@ -89,13 +89,13 @@ Histology Tutor, 2013
 
 Emory University School of Medicine  
 J. Willis Hurst Internal Medicine Residency Program  
-**Senior Resident**
-Grady Wards, January 2018
-Grady Hematology Service, February 2018
-VA Wards, April 2018
-Emory University Hospital Heart Failure Service, July 2018
-Grady Wards, August 2018
-Grady MICU, April 2019
+**Senior Resident**  
+Grady Wards, January 2018  
+Grady Hematology Service, February 2018  
+VA Wards, April 2018  
+Emory University Hospital Heart Failure Service, July 2018  
+Grady Wards, August 2018  
+Grady MICU, April 2019  
 
 ###	Residency Program Teaching
 
@@ -168,13 +168,16 @@ American Medical Association, 2012 – present
 American College of Physicians, 2016 – present  
 American Heart Association, 2018 — present  
 
-## Honors
+## Honors and Awards
 
 EMT-Basic National Competition, 1st Place, HOSA, 2007  
 Delores B. Aldridge Excellence in Service to a Diverse Community Award, 2009  
 Nu Rho Psi Honor Society, 2009 – 2011  
 Speaker to His Holiness the XIV Dalai Lama, 2009  
+Texas A&M University College of Medicine Research Symposium, First Place Oral Presentation, 2015
 
+
+ 
 ## Skills
 
 ###	Languages spoken
@@ -302,7 +305,8 @@ Presentation [submitted]
 American Heart Association Scientific Sessions  
 Chicago, Illinois  
 November 10-12, 2018  
-  
+
+
 ## Research
 
 ### Manuscripts  
@@ -313,7 +317,7 @@ Mrdutt, M, **Shah, AS**, Sanders, Mallett, L, Perger, LP. “Long-Term Outcomes 
   
 **Shah, AS**, Alvaro, A, Whitsel, E, Vaccarino, V, Shah, AJ. “Heart Rate Variability and Psychosocial States: an Atherosclerosis Risk In Communities study”. Atherosclerosis Risk In Communities Publications Committee, October 2017. [proposal accepted]  
 
-*Shah, AS, Evans, M, Akbashev, M. "Point-Of-Care Ultrasonography Utility in Resident Learning and Clinical Decision Making". Institutional Review Board, Emory University, Atlanta, Georgia, March, 2018. [IRB approval granted]
+**Shah, AS**, Evans, M, Akbashev, M. "Point-Of-Care Ultrasonography Utility in Resident Learning and Clinical Decision Making". Institutional Review Board, Emory University, Atlanta, Georgia, March, 2018. [IRB approval granted]
 
   
 ### Abstracts  
