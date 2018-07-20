@@ -174,7 +174,7 @@ EMT-Basic National Competition, 1st Place, HOSA, 2007
 Delores B. Aldridge Excellence in Service to a Diverse Community Award, 2009  
 Nu Rho Psi Honor Society, 2009 – 2011  
 Speaker to His Holiness the XIV Dalai Lama, 2009  
-Texas A&M University College of Medicine Research Symposium, First Place Oral Presentation, 2015
+Texas A&M University College of Medicine Research Symposium, 1st Place Oral Presentation, 2015
 
 
  
