@@ -32,4 +32,4 @@ github:
 google_analytics: UA-121075166-1
 
 # Gems
-plugins: [jekyll-paginate, jekyll-gist, jekyll-sitemap]
+plugins: [jekyll-paginate, jekyll-gist, jekyll-sitemap, jekyll-seo-tag]
