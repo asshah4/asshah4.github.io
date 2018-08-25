@@ -298,6 +298,13 @@ Southern Hospital Medicine Conference
 New Orleans, Louisiana  
 October 19, 2017  
   
+*Ultrasound Workshop*
+**Anish Shah MD**, Mikhail Akbashev MD
+Workshop Leader
+Southern Hospital Medicine Conference
+Atlanta, Georgia
+October 3, 2018
+
 ### National  
   
 *Genetic Linkage Analysis for Cystic Fibrosis Related Diabetes*  
@@ -334,7 +341,7 @@ Mrdutt, M, **Shah, AS**, Sanders, Mallett, L, Perger, LP. “Long-Term Outcomes 
 
 **Shah, AS**, Evans, M, Akbashev, M. "Point-Of-Care Ultrasonography Utility in Resident Learning and Clinical Decision Making". Institutional Review Board, Emory University, Atlanta, Georgia, March, 2018. [IRB approval granted]
 
-Shah, AJ, Shah, AS, Park, J, Mehta, PK, Quyyumi, AA, Vaccarino, V, Marvar, P. "Brain-Heart Interactions in Stress and Anxiety Related Disorders: Implications for Increased Cardiovascular Disease Risk". Hypertension [accepted review article]
+Shah, AJ, **Shah, AS**, Park, J, Mehta, PK, Quyyumi, AA, Vaccarino, V, Marvar, P. "Brain-Heart Interactions in Stress and Anxiety Related Disorders: Implications for Increased Cardiovascular Disease Risk". Hypertension [accepted review article]
 
   
 ### Abstracts  
