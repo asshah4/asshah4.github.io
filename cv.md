@@ -97,6 +97,9 @@ Emory University Hospital Heart Failure Service, July 2018
 Grady Wards, August 2018  
 Grady MICU, April 2019  
 
+Emory University School of Medicine
+M3 Ultrasound Workshop Leader, 2018
+
 ###	Residency Program Teaching
 
 Emory University School of Medicine  
@@ -117,6 +120,12 @@ J. Willis Hurst Internal Medicine Residency Program
 Journal Club Conference  
 March 21, 2018  
 
+Emory University School of Medicine  
+J. Willis Hurst Internal Medicine Residency Program  
+*Ironing Out Transfusions in Sickle Cell*  
+Bite-Sized Teaching Mode Conference  
+September 26, 2018  
+
 ###	Faculty Teaching
 
 Emory University School of Medicine  
@@ -124,6 +133,12 @@ Department of Medicine
 *Parasternal Long Axis View*  
 Lecture for Faculty Development Conference  
 November 16, 2017  
+
+Emory University School of Medicine  
+Department of Medicine  
+*Evaluating the Inferior Vena Cava*  
+Lecture for Faculty Development Conference  
+October 11, 2018  
 
 ### Other Teaching
 
@@ -301,10 +316,10 @@ September 22-24, 2017
   
 *Circadian Autonomic Inflexibility: a Marker of Ischemic Heart Disease*  
 **Anish Shah MD***, Rachel Lampert MD, Jack Goldberg PhD, J. Douglas Bremner MD, Viola Vaccarino MD PhD, Amit Shah MD MSCR  
-Presentation [submitted]  
+Poster Presentation [accepted]  
 American Heart Association Scientific Sessions  
 Chicago, Illinois  
-November 10-12, 2018  
+November 12, 2018  
 
 
 ## Research
@@ -318,6 +333,8 @@ Mrdutt, M, **Shah, AS**, Sanders, Mallett, L, Perger, LP. “Long-Term Outcomes 
 **Shah, AS**, Alvaro, A, Whitsel, E, Vaccarino, V, Shah, AJ. “Heart Rate Variability and Psychosocial States: an Atherosclerosis Risk In Communities study”. Atherosclerosis Risk In Communities Publications Committee, October 2017. [proposal accepted]  
 
 **Shah, AS**, Evans, M, Akbashev, M. "Point-Of-Care Ultrasonography Utility in Resident Learning and Clinical Decision Making". Institutional Review Board, Emory University, Atlanta, Georgia, March, 2018. [IRB approval granted]
+
+Shah, AJ, Shah, AS, Park, J, Mehta, PK, Quyyumi, AA, Vaccarino, V, Marvar, P. "Brain-Heart Interactions in Stress and Anxiety Related Disorders: Implications for Increased Cardiovascular Disease Risk". Hypertension [accepted review article]
 
   
 ### Abstracts  
