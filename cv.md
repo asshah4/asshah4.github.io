@@ -87,6 +87,9 @@ Tutor in Biology, Chemistry, and Physics, 2011 — 2012
 Texas A&M University College of Medicine  
 Histology Tutor, 2013  
 
+Emory University School of Medicine
+M3 Ultrasound Workshop Leader, 2018
+
 Emory University School of Medicine  
 J. Willis Hurst Internal Medicine Residency Program  
 *Senior Resident*  
@@ -97,8 +100,6 @@ Emory University Hospital Heart Failure Service, July 2018
 Grady Wards, August 2018  
 Grady MICU, April 2019  
 
-Emory University School of Medicine
-M3 Ultrasound Workshop Leader, 2018
 
 ###	Residency Program Teaching
 
@@ -134,11 +135,15 @@ Department of Medicine
 Lecture for Faculty Development Conference  
 November 16, 2017  
 
+Southern Hospital Medicine Conference
+*Ultrasound Workshop*
+October 3, 2018
+
 Emory University School of Medicine  
 Department of Medicine  
 *Evaluating the Inferior Vena Cava*  
 Lecture for Faculty Development Conference  
-October 11, 2018  
+October 18, 2018  
 
 ### Other Teaching
 
@@ -298,12 +303,6 @@ Southern Hospital Medicine Conference
 New Orleans, Louisiana  
 October 19, 2017  
   
-*Ultrasound Workshop*
-**Anish Shah MD**, Mikhail Akbashev MD
-Workshop Leader
-Southern Hospital Medicine Conference
-Atlanta, Georgia
-October 3, 2018
 
 ### National  
   
@@ -339,10 +338,11 @@ Mrdutt, M, **Shah, AS**, Sanders, Mallett, L, Perger, LP. “Long-Term Outcomes 
   
 **Shah, AS**, Alvaro, A, Whitsel, E, Vaccarino, V, Shah, AJ. “Heart Rate Variability and Psychosocial States: an Atherosclerosis Risk In Communities study”. Atherosclerosis Risk In Communities Publications Committee, October 2017. [proposal accepted]  
 
+**Shah, AS**, Clements, SD. "Nocardioma: neuroendocrine hyperplasia as a response to pulmonary nocardiosis". Annals of Internal Medicine. [submitted]
+
 **Shah, AS**, Evans, M, Akbashev, M. "Point-Of-Care Ultrasonography Utility in Resident Learning and Clinical Decision Making". Institutional Review Board, Emory University, Atlanta, Georgia, March, 2018. [IRB approval granted]
 
-Shah, AJ, **Shah, AS**, Park, J, Mehta, PK, Quyyumi, AA, Vaccarino, V, Marvar, P. "Brain-Heart Interactions in Stress and Anxiety Related Disorders: Implications for Increased Cardiovascular Disease Risk". Hypertension [accepted review article]
-
+Shah, AJ, **Shah, AS**, Park, J, Mehta, PK, Quyyumi, AA, Vaccarino, V, Marvar, P. "Brain-Heart Interactions in Stress and Anxiety Related Disorders: Implications for Increased Cardiovascular Disease Risk". Hypertension. [invited review article]
   
 ### Abstracts  
   
