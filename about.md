@@ -12,6 +12,7 @@ I'm currently a resident physician with an interest in programming, biostatistic
 Finite and Infinite Games ~ James Carse  
 Lord of the Rings Trilogy ~ JRR Tolkien  
 The Screwtape Letters ~ CS Lewis  
+The Adventures of Tom Sawyer and Huckleberry Finn ~ Mark Twain  
 
 ### Movies worth quoting
 
