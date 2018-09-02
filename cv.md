@@ -1,8 +1,7 @@
 ---
-layout: page
+layout: cv
 title: Curriculum vitae
 ---
-
 
 ## Personal information
 
@@ -245,7 +244,7 @@ April 12, 2016
 **Anish Shah***, Emily Sanders, Mary Mrdutt MD, Lena Perger MD  
 Scott & White Healthcare Academic Operations Research Day  
 Temple, Texas  
-May 5 2016  
+May 5, 2016  
   
 *Association of Ischemia with Heart Rate Variability*  
 **Anish Shah MD***, Amit Shah MD MSCR  
@@ -354,7 +353,6 @@ Mrdutt, M, **Shah, AS**, Sanders, Mallett, L, Perger, LP. “Long-Term Outcomes 
   
 **Shah, AS**, Lampert R, Goldberg, J, Bremner, JD, Vaccarino, V, Shah, AJ. “Circadian Autonomic Inflexibility: a Marker of Ischemic Heart Disease”. American Heart Association Scientific Sessions, Chicago, Illinois, November 2018 [submitted]  
   
-### Active Projects
 
 **Heart Rate Variability and Psychosocial States: an Atherosclerosis Risk In Communities study**  
 April 2017 — present  
