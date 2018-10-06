@@ -19,4 +19,4 @@ With literature from early-terminated trials during 2018, I gave a [journal club
 I gave a *bite-sized teaching mode* talk on [treating rashes](https://docs.google.com/presentation/d/e/2PACX-1vQRVke_1-uvStSty5mo0Q2dh_WjeMdnDgQ8-nt8Vff8Gqd4J0Pzn3ZomxVyb8LcWf2yYYAuRl5TO_cp/pub?start=false&loop=false&delayms=3000). The purpose of this style of talk is to explain and actually teach a topic in less than 8 minutes. Giving the talk itself emphasized learning *how* to teach.
 
 **September 26, 2018**
-Another bite-sized teaching mode talk on [transfusions in sickle cell](https://drive.google.com/open?id=11B_7ZM3N2g_DDG3uIG-OYMOPptoq8l3zueLfjsg-ZBc). Gave this talk again on **October 4, 2018** at the Souther Hospital Medicine conference as an example of alternative teaching methods.
+Another bite-sized teaching mode talk on [transfusions in sickle cell](https://docs.google.com/presentation/d/1MrrWmaZ1-U76AK7TtutUDGz8sJ4nyse467jfHpRR4O4/present#slide=id.p1). Gave this talk again on **October 4, 2018** at the Souther Hospital Medicine conference as an example of alternative teaching methods.
