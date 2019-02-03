@@ -5,7 +5,7 @@ title: About me
 
 ### Hello
 
-I'm currently a resident physician with an interest in programming, biostatistics, epidemiology, and cardiac physiology. Mountains, rock-climbing, playing the piano when I can, and cleaning up after my !@#$ of a dog, Ripley.
+I'm currently a resident physician with an interest in biostatistics, epidemiology, autonomic balance, and point-of-care ultrasonography. Otherwise, mountains, rock-climbing, playing piano when I can. And of course, spending time with my dog, Ripley.
 
 ### Solid reads
 
