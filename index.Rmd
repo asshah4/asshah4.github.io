@@ -1,0 +1,13 @@
+---
+title: "Github Website"
+author: "Anish Sanjay Shah"
+site: bookdown::bookdown_site
+documentclass: book
+output:
+  bookdown::gitbook: default
+  #bookdown::pdf_book: default
+---
+
+# Hello World
+
+Hello!
