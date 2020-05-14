@@ -1,4 +1,7 @@
-## Talks
+---
+title: "talks"
+output: html_document
+---
 
 Here is a collection of formal talks and presentations that I've given. Feel free to reference or use them as needed. [#FOAMed](https://twitter.com/hashtag/foamed)
 
