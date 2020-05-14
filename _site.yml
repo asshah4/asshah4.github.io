@@ -1,0 +1,18 @@
+name: "basecamp"
+navbar:
+  title: "base camp"
+  left:
+    - text: "home"
+      href: index.html
+    - text: "about"
+      href: about.html
+    - text: "talks"
+      href: talks.html
+output_dir: "."
+output:
+  html_document:
+    theme: cosmo
+    highlight: textmate
+    include:
+      after_body: footer.html
+    css: styles.css

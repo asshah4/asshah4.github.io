@@ -1,7 +1,4 @@
----
-layout: page
-title: Talks
----
+## Talks
 
 Here is a collection of formal talks and presentations that I've given. Feel free to reference or use them as needed. [#FOAMed](https://twitter.com/hashtag/foamed)
 
@@ -23,3 +20,4 @@ I gave a *bite-sized teaching mode* talk on [treating rashes](https://docs.googl
 
 __September 26, 2018__
 Another bite-sized teaching mode talk on [transfusions in sickle cell](https://docs.google.com/presentation/d/1MrrWmaZ1-U76AK7TtutUDGz8sJ4nyse467jfHpRR4O4/present#slide=id.p1). Gave this talk again on __October 4, 2018__ at the Souther Hospital Medicine conference as an example of alternative teaching methods.
+
