@@ -11,8 +11,8 @@ navbar:
     - text: "Speaking"
       href: talks.html
     - text: "Thinking"
-      href: https://asshah4.github.io/book
-    - text: "Programming"
+      href: https://asshah4.github.io/thoughts
+    - text: "{card}"
       href: https://asshah4.github.io/card
   right:
     - icon: fa-envelope fa-lg
@@ -26,8 +26,8 @@ navbar:
 output_dir: "."
 output:
   html_document:
-    theme: cosmo
-    highlight: textmate
+    theme: flatly
+    highlight: tango
     include:
       after_body: footer.html
     css: styles.css
