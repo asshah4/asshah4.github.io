@@ -2,17 +2,19 @@ name: "basecamp"
 navbar:
   title: "Anish S. Shah"
   left:
-    - text: "Home"
+    - text: "About Me"
       href: index.html
-    - text: "About"
-      href: about.html
-    - text: "Talks"
-      href: talks.html
-    - text: "CV"
+    - text: "Curriculum Vitae"
       href: https://asshah4.github.io/cv/
+    - text: "Speaking"
+      href: talks.html
+    - text: "Researching"
+      href: https://asshah4.github.io/book
+    - text: "Programming"
+      href: https://asshah4.github.io/card
   right:
     - icon: fa-envelope fa-lg
-      href: asshah4@emory.edu
+      href: mailto:asshah4@emory.edu
     - icon: fa-github fa-lg
       href: http://github.com/asshah4
     - icon: fa-twitter fa-lg
