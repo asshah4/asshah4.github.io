@@ -1,13 +1,24 @@
 name: "basecamp"
 navbar:
-  title: "base camp"
+  title: "Anish S. Shah"
   left:
-    - text: "home"
+    - text: "Home"
       href: index.html
-    - text: "about"
+    - text: "About"
       href: about.html
-    - text: "talks"
+    - text: "Talks"
       href: talks.html
+    - text: "CV"
+      href: https://asshah4.github.io/cv/
+  right:
+    - icon: fa-envelope fa-lg
+      href: asshah4@emory.edu
+    - icon: fa-github fa-lg
+      href: http://github.com/asshah4
+    - icon: fa-twitter fa-lg
+      href: https://twitter.com/shah_in_boots
+    - icon: fa-linkedin fa-lg
+      href: https://www.linkedin.com/in/anish-shah-326991177/
 output_dir: "."
 output:
   html_document:
