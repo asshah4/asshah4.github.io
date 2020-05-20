@@ -6,9 +6,11 @@ navbar:
       href: index.html
     - text: "Curriculum Vitae"
       href: https://asshah4.github.io/cv/
+    - text: "Research"
+      href: research.html
     - text: "Speaking"
       href: talks.html
-    - text: "Researching"
+    - text: "Thinking"
       href: https://asshah4.github.io/book
     - text: "Programming"
       href: https://asshah4.github.io/card
