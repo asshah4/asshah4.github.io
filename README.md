@@ -1,1 +1,1 @@
-This is the attempt at a home page.
+This is the attempt at a personal website.
