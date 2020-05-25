@@ -8,6 +8,8 @@ navbar:
       href: https://asshah4.github.io/cv/
     - text: "Research"
       href: research.html
+    - text: "Clinical"
+      href: clinical.html
     - text: "Speaking"
       href: talks.html
     - text: "Thinking"

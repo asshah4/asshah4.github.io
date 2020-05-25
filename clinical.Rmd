@@ -1,0 +1,53 @@
+---
+output: 
+  flexdashboard::flex_dashboard:
+    orientation: columns
+    vertical_layout: fill
+---
+
+```{r setup, include=FALSE}
+library(flexdashboard)
+library(tidyverse)
+library(plotly)
+```
+
+Column {data-width=650}
+-----------------------------------------------------------------------
+
+### Chart A
+
+```{r}
+p <- ggplot(data = diamonds, aes(x = cut, fill = clarity)) +
+	geom_bar(position = "dodge")
+
+ggplotly(p)
+```
+
+Column {data-width=350}
+-----------------------------------------------------------------------
+
+### Chart B
+
+```{r}
+dates <- c("05-08-20", "05-23-20", "05-23-20", "05-24-20")
+procedures <-c("para", "thora", "lp", "lp")
+df <- bind_cols(list(procedures, dates))
+names(df) <- c("procedures", "dates")
+df$dates <- as.Date(df$dates, format = ("%m-%d-%y"))
+df$procedures <- factor(df$procedures)
+
+p <- ggplot(df, aes(x = dates, fill = procedures)) + 
+	scale_x_date() + 
+	geom_bar() +
+	scale_fill_viridis_d(option = "plasma", end = 0.9) + 
+	theme_minimal()
+
+ggplotly(p)
+```
+
+### Chart C
+
+```{r}
+
+```
+
