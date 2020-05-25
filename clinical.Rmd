@@ -11,9 +11,6 @@ library(tidyverse)
 library(plotly)
 ```
 
-Column {data-width=650}
------------------------------------------------------------------------
-
 ### Chart A
 
 ```{r}
@@ -22,9 +19,6 @@ p <- ggplot(data = diamonds, aes(x = cut, fill = clarity)) +
 
 ggplotly(p)
 ```
-
-Column {data-width=350}
------------------------------------------------------------------------
 
 ### Chart B
 
@@ -44,10 +38,3 @@ p <- ggplot(df, aes(x = dates, fill = procedures)) +
 
 ggplotly(p)
 ```
-
-### Chart C
-
-```{r}
-
-```
-
