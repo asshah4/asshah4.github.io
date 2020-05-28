@@ -1,0 +1,21 @@
+---
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = TRUE)
+```
+
+# Programming
+
+As part of my research progress in computational neurocardiology, I've come to  respect the adage _Don't Repeat Yourself_. I've started to develop functions related to:
+
+- cardiovascular disease
+- signal processing
+- epidemiology
+- circadian rhythms
+
+The package `{card}` was created to improve the research workflow. Take a look at [__card__](https:://asshah4.github.io/card). 
+
+# Documenting
+
+I find that as I go along, poor documentation of ideas (whether it be code or clinical notes) leaves me questioning the past. I've started to document my [thoughts](https:://asshah4.github.io/thoughts) as the `{card}` package is developed.

@@ -2,14 +2,13 @@
 ---
 
 ```{r setup, include=FALSE}
-library(flexdashboard)
 library(tidyverse)
 library(plotly)
 ```
 
 ### Chart A
 
-```{r}
+```{r, fig.align='center'}
 p <- ggplot(data = diamonds, aes(x = cut, fill = clarity)) +
 	geom_bar(position = "dodge")
 
@@ -18,7 +17,7 @@ ggplotly(p)
 
 ### Procedures
 
-```{r}
+```{r, fig.align='center'}
 dates <- c("05-08-20", "05-23-20", "05-23-20", "05-24-20")
 procedures <-c("para", "thora", "lp", "lp")
 df <- bind_cols(list(procedures, dates))

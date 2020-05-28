@@ -10,8 +10,10 @@ navbar:
       href: research.html
     - text: "Clinical"
       href: clinical.html
-    - text: "Speaking"
+    - text: "Talks"
       href: talks.html
+    - text: "Projects"
+      href:
     - text: "Thinking"
       href: https://asshah4.github.io/thoughts
     - text: "{card}"

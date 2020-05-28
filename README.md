@@ -1,1 +1,1 @@
-This is the attempt at a personal website.
+This is just a personal website.
