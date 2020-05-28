@@ -14,8 +14,8 @@ As part of my research progress in computational neurocardiology, I've come to  
 - epidemiology
 - circadian rhythms
 
-The package `{card}` was created to improve the research workflow. Take a look at [__card__](https:://asshah4.github.io/card). 
+The package `{card}` was created to improve the research workflow. Take a look at [__card__](https://asshah4.github.io/card). 
 
 # Documenting
 
-I find that as I go along, poor documentation of ideas (whether it be code or clinical notes) leaves me questioning the past. I've started to document my [thoughts](https:://asshah4.github.io/thoughts) as the `{card}` package is developed.
+I find that as I go along, poor documentation of ideas (whether it be code or clinical notes) leaves me questioning the past. I've started to document my [thoughts](https://asshah4.github.io/thoughts) as the `{card}` package is developed.
