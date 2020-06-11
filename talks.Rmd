@@ -1,4 +1,5 @@
 ---
+title: Talks
 ---
 
 Here is a collection of formal talks and presentations that I've given. Feel free to reference as needed. [#FOAMed](https://twitter.com/hashtag/foamed)

@@ -14,10 +14,6 @@ navbar:
       href: talks.html
     - text: "Projects"
       href: projects.html
-    - text: "Thinking"
-      href: https://asshah4.github.io/thoughts
-    - text: "{card}"
-      href: https://asshah4.github.io/card
   right:
     - icon: fa-envelope fa-lg
       href: mailto:asshah4@emory.edu
