@@ -6,17 +6,28 @@ title: Projects
 knitr::opts_chunk$set(echo = TRUE)
 ```
 
-# Programming
+# [{card}](https://asshah4.github.io/card): Cardiovascular and Autonomic Research Design
 
-As part of my research progress in computational neurocardiology, I've come to  respect the adage _Don't Repeat Yourself_. I've started to develop functions related to:
+As part of my research in computational neurocardiology, I've come to  respect the adage _Don't Repeat Yourself_. I've started to develop functions related to:
 
 - cardiovascular disease
 - signal processing
 - epidemiology
 - circadian rhythms
+- recurrent event analysis
 
-The package `{card}` was created to improve the research workflow. Take a look at [__card__](https://asshah4.github.io/card). 
+The package `{card}` was created to improve the research workflow. 
 
-# Documenting
+# Thoughts [thoughts](https://asshah4.github.io/thoughts)
 
-I find that as I go along, poor documentation of ideas (whether it be code or clinical notes) leaves me questioning the past. I've started to document my [thoughts](https://asshah4.github.io/thoughts) as the `{card}` package is developed.
+More important than a final product is the thought process and exploration required to get their. Poor documentation, either clinically or programmatically, leaves questions about the past. 
+
+This started as a reflection on how the `{card}` package below was built, as it addressed clinical questions through research using `R`, and has slowly expanded to include clinical elements that provide context.
+
+Key elements:
+
+- technical and computational elements
+- electrocardiography
+- modeling and epidemiology
+- autonomic dysfunction
+- clinical cardiology
