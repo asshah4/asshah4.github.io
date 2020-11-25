@@ -13,6 +13,7 @@
 
 <title>Projects</title>
 
+<script src="site_libs/header-attrs-2.5/header-attrs.js"></script>
 <script src="site_libs/jquery-1.11.3/jquery.min.js"></script>
 <meta name="viewport" content="width=device-width, initial-scale=1" />
 <link href="site_libs/bootstrap-3.3.5/css/flatly.min.css" rel="stylesheet" />
@@ -20,8 +21,20 @@
 <script src="site_libs/bootstrap-3.3.5/shim/html5shiv.min.js"></script>
 <script src="site_libs/bootstrap-3.3.5/shim/respond.min.js"></script>
 <script src="site_libs/navigation-1.1/tabsets.js"></script>
+<script src="site_libs/accessible-code-block-0.0.1/empty-anchor.js"></script>
+<link href="site_libs/anchor-sections-1.0/anchor-sections.css" rel="stylesheet" />
+<script src="site_libs/anchor-sections-1.0/anchor-sections.js"></script>
 <link href="site_libs/font-awesome-5.1.0/css/all.css" rel="stylesheet" />
 <link href="site_libs/font-awesome-5.1.0/css/v4-shims.css" rel="stylesheet" />
+
+<style type="text/css">
+  code{white-space: pre-wrap;}
+  span.smallcaps{font-variant: small-caps;}
+  span.underline{text-decoration: underline;}
+  div.column{display: inline-block; vertical-align: top; width: 50%;}
+  div.hanging-indent{margin-left: 1.5em; text-indent: -1.5em;}
+  ul.task-list{list-style: none;}
+    </style>
 
 
 
@@ -315,23 +328,41 @@ $(document).ready(function () {
 </div>
 
 
-<div id="programming" class="section level1">
-<h1>Programming</h1>
-<p>As part of my research progress in computational neurocardiology, I’ve come to respect the adage <em>Don’t Repeat Yourself</em>. I’ve started to develop functions related to:</p>
+<div id="thoughts" class="section level1">
+<h1>Thoughts</h1>
+<p>Essentially a non-serialized blog, <a href="https://asshah4.github.io/thoughts">thoughts</a> is a sandbox to document and explore ideas for me.</p>
+<p>More important than a final product is the thought process and exploration required to get their. Poor documentation, either clinically or programmatically, leaves questions about the past.</p>
+<p>This started as a reflection on the start of specific functions, which ended up becoming parts of packages (e.g. <code>card</code>, <code>marksman</code>). It addressed clinical questions through research using <code>R</code>, and has slowly expanded to include clinical elements that provide context.</p>
+<p>Key elements:</p>
+<ul>
+<li>technical and computational elements</li>
+<li>electrocardiography</li>
+<li>modeling and epidemiology</li>
+<li>autonomic dysfunction</li>
+<li>clinical cardiology</li>
+</ul>
+</div>
+<div id="card-cardiovascular-and-autonomic-research-design" class="section level1">
+<h1><a href="https://asshah4.github.io/card">{card}</a>: Cardiovascular and Autonomic Research Design</h1>
+<p>As part of my research in computational neurocardiology, I’ve come to respect the adage <em>Don’t Repeat Yourself</em>. I’ve started to develop functions related to:</p>
 <ul>
 <li>cardiovascular disease</li>
 <li>signal processing</li>
 <li>epidemiology</li>
 <li>circadian rhythms</li>
+<li>recurrent event analysis</li>
 </ul>
-<p>The package <code>{card}</code> was created to improve the research workflow. Take a look at <a href="https://asshah4.github.io/card"><strong>card</strong></a>.</p>
+<p>The package <code>{card}</code> was created to improve the research efforts in analyzing circadian and autonomic events, and is now available for download on CRAN.</p>
 </div>
-<div id="documenting" class="section level1">
-<h1>Documenting</h1>
-<p>I find that as I go along, poor documentation of ideas (whether it be code or clinical notes) leaves me questioning the past. I’ve started to document my <a href="https://asshah4.github.io/thoughts">thoughts</a> as the <code>{card}</code> package is developed.</p>
+<div id="marksman-marksman" class="section level1">
+<h1><a href="https://asshah4.github.io/marksman">{marksman}</a>: Marksman</h1>
+<p>As a researcher, both for grants and papers that are usually mechanistic / causal in nature, I’ve realized that the modeling workflow in R is very exploratory in nature, as seen in <code>tidymodels</code>. With my own research, a negative hypothesis should still be documented, and thus, holding on to and organizing hypotheses is important.</p>
+<p><strong>Marksman</strong> serves this purpose by creating a structured <em>specific aims</em> object, with subsequent aims that hold specific, question-oriented hypotheses. By creating the aims up front, which is expected, it gives parallel pipelines in a project structure.</p>
+<p>As of now, its still under development.</p>
 </div>
 
 <p>MIT License: Copyright &copy; 2020 Anish S. Shah, MD.</p>
+
 
 
 
@@ -341,7 +372,7 @@ $(document).ready(function () {
 
 // add bootstrap table styles to pandoc tables
 function bootstrapStylePandocTables() {
-  $('tr.header').parent('thead').parent('table').addClass('table table-condensed');
+  $('tr.odd').parent('tbody').parent('table').addClass('table table-condensed');
 }
 $(document).ready(function () {
   bootstrapStylePandocTables();
