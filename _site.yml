@@ -5,7 +5,7 @@ navbar:
     - text: "About Me"
       href: index.html
     - text: "Curriculum Vitae"
-      href: https://asshah4.github.io/cv/
+      href: https://asshah4.github.io/cv/vitae.pdf
     - text: "Research"
       href: research.html
     - text: "Clinical"
