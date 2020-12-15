@@ -8,6 +8,6 @@ knitr::opts_chunk$set(echo = TRUE)
 
 # Howdy
 
-My interest is in studying the effects of stress on the body. I do this using a computational approach to neurocardiology. I currently serve as a postdoctoral fellow studying autonomic dysfunction in the [Department of Epidemiology](https://www.sph.emory.edu/departments/epi/research/centers/epicore/index.html) and attend at [Grady](https://en.wikipedia.org/wiki/Grady_Memorial_Hospital) and [Crawford Long](https://en.wikipedia.org/wiki/Emory_University_Hospital_Midtown) in Atlanta, Georgia.
+My interest is in studying the effects of stress on the body. I do this using a computational approach to neurocardiology. I currently serve as a cardiology fellow at University of Illinois at Chicago on the research track, and work at both University of Illinois Hospital and the Jesse Brown Veterans Affairs Medical Center.
 
-I am an active R user and have an interest in biostatistical techniques to analyze physiological data, including circadian rhythms, using electrocardiography. 
+I am an active R user and have an interest in biostatistical techniques to analyze physiological data, such as circadian rhythms, using electrocardiography. 
