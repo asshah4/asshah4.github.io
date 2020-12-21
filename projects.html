@@ -13,7 +13,7 @@
 
 <title>Projects</title>
 
-<script src="site_libs/header-attrs-2.5/header-attrs.js"></script>
+<script src="site_libs/header-attrs-2.6/header-attrs.js"></script>
 <script src="site_libs/jquery-1.11.3/jquery.min.js"></script>
 <meta name="viewport" content="width=device-width, initial-scale=1" />
 <link href="site_libs/bootstrap-3.3.5/css/flatly.min.css" rel="stylesheet" />
@@ -21,9 +21,6 @@
 <script src="site_libs/bootstrap-3.3.5/shim/html5shiv.min.js"></script>
 <script src="site_libs/bootstrap-3.3.5/shim/respond.min.js"></script>
 <script src="site_libs/navigation-1.1/tabsets.js"></script>
-<script src="site_libs/accessible-code-block-0.0.1/empty-anchor.js"></script>
-<link href="site_libs/anchor-sections-1.0/anchor-sections.css" rel="stylesheet" />
-<script src="site_libs/anchor-sections-1.0/anchor-sections.js"></script>
 <link href="site_libs/font-awesome-5.1.0/css/all.css" rel="stylesheet" />
 <link href="site_libs/font-awesome-5.1.0/css/v4-shims.css" rel="stylesheet" />
 
@@ -65,6 +62,7 @@ h6 {
   text-align: left;
 }
 </style>
+
 
 <link rel="stylesheet" href="styles.css" type="text/css" />
 
@@ -274,7 +272,7 @@ $(document).ready(function () {
   <a href="index.html">About Me</a>
 </li>
 <li>
-  <a href="https://asshah4.github.io/cv/">Curriculum Vitae</a>
+  <a href="https://asshah4.github.io/cv/vitae.pdf">Curriculum Vitae</a>
 </li>
 <li>
   <a href="research.html">Research</a>
@@ -292,25 +290,25 @@ $(document).ready(function () {
       <ul class="nav navbar-nav navbar-right">
         <li>
   <a href="mailto:asshah4@emory.edu">
-    <span class="fa fa-envelope fa-lg"></span>
+    <span class="fas fa-envelope fa-lg"></span>
      
   </a>
 </li>
 <li>
   <a href="http://github.com/asshah4">
-    <span class="fa fa-github fa-lg"></span>
+    <span class="fas fa-github fa-lg"></span>
      
   </a>
 </li>
 <li>
   <a href="https://twitter.com/shah_in_boots">
-    <span class="fa fa-twitter fa-lg"></span>
+    <span class="fas fa-twitter fa-lg"></span>
      
   </a>
 </li>
 <li>
   <a href="https://www.linkedin.com/in/anish-shah-326991177/">
-    <span class="fa fa-linkedin fa-lg"></span>
+    <span class="fas fa-linkedin fa-lg"></span>
      
   </a>
 </li>
@@ -342,8 +340,9 @@ $(document).ready(function () {
 <li>clinical cardiology</li>
 </ul>
 </div>
-<div id="card-cardiovascular-and-autonomic-research-design" class="section level1">
-<h1><a href="https://asshah4.github.io/card">{card}</a>: Cardiovascular and Autonomic Research Design</h1>
+<div id="card" class="section level1">
+<h1><a href="https://asshah4.github.io/card">{card}</a></h1>
+<p><strong>Cardiovascular and Autonomic Research Design</strong></p>
 <p>As part of my research in computational neurocardiology, I’ve come to respect the adage <em>Don’t Repeat Yourself</em>. I’ve started to develop functions related to:</p>
 <ul>
 <li>cardiovascular disease</li>
@@ -354,10 +353,11 @@ $(document).ready(function () {
 </ul>
 <p>The package <code>{card}</code> was created to improve the research efforts in analyzing circadian and autonomic events, and is now available for download on CRAN.</p>
 </div>
-<div id="marksman-marksman" class="section level1">
-<h1><a href="https://asshah4.github.io/marksman">{marksman}</a>: Marksman</h1>
+<div id="octomod" class="section level1">
+<h1><a href="https://asshah4.github.io/octomod">{octomod}</a></h1>
+<p><strong>Octomod</strong></p>
 <p>As a researcher, both for grants and papers that are usually mechanistic / causal in nature, I’ve realized that the modeling workflow in R is very exploratory in nature, as seen in <code>tidymodels</code>. With my own research, a negative hypothesis should still be documented, and thus, holding on to and organizing hypotheses is important.</p>
-<p><strong>Marksman</strong> serves this purpose by creating a structured <em>specific aims</em> object, with subsequent aims that hold specific, question-oriented hypotheses. By creating the aims up front, which is expected, it gives parallel pipelines in a project structure.</p>
+<p>The <strong>octomod</strong> package provides a simple and tidy way to organize the many models built during a research project. The package consists of individual hypothesis objects that are all linked together around a single data set. In causality-based research, such as epidemiology, the focus is on specific hypothesis that can be tested. However, the number of models and tests can become unruly. This serves as a way to organize the many.</p>
 <p>As of now, its still under development.</p>
 </div>
 

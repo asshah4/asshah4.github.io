@@ -22,7 +22,9 @@ Key elements:
 - autonomic dysfunction
 - clinical cardiology
 
-# [{card}](https://asshah4.github.io/card): Cardiovascular and Autonomic Research Design
+# [{card}](https://asshah4.github.io/card)
+
+**Cardiovascular and Autonomic Research Design**
 
 As part of my research in computational neurocardiology, I've come to  respect the adage _Don't Repeat Yourself_. I've started to develop functions related to:
 
@@ -34,10 +36,13 @@ As part of my research in computational neurocardiology, I've come to  respect t
 
 The package `{card}` was created to improve the research efforts in analyzing circadian and autonomic events, and is now available for download on CRAN.
 
-# [{marksman}](https://asshah4.github.io/marksman): Marksman
+# [{octomod}](https://asshah4.github.io/octomod)
+
+**Octomod**
 
 As a researcher, both for grants and papers that are usually mechanistic / causal in nature, I've realized that the modeling workflow in R is very exploratory in nature, as seen in `tidymodels`. With my own research, a negative hypothesis should still be documented, and thus, holding on to and organizing hypotheses is important. 
 
-__Marksman__ serves this purpose by creating a structured _specific aims_ object, with subsequent aims that hold specific, question-oriented hypotheses. By creating the aims up front, which is expected, it gives parallel pipelines in a project structure.
+The __octomod__ package provides a simple and tidy way to organize the many models built during a research project. The package consists of individual hypothesis objects that are all linked together around a single data set. In causality-based research, such as epidemiology, the focus is on specific hypothesis that can be tested. However, the number of models and tests can become unruly. This serves as a way to organize the many.
 
 As of now, its still under development.
+

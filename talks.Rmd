@@ -6,7 +6,7 @@ Here is a collection of formal talks and presentations that I've given. Feel fre
 
 ## Lectures
 
-_Decemmber 20, 2020_  
+__Decemmber 20, 2020__
 As a cardiology fellow, we have clinical case conferences to review interesting or puzzling cases with evidence-based analysis. Here is an interesting case of [restrictive cardiomyopathy](http:://asshah4-github.io/patient-log/cases/12-14-20_biatrial-enlargement/biatrial-enlargement.html), including the work-up and a brief differential on etiologies. 
 
 __February 18, 2019__
