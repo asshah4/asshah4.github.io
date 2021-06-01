@@ -17,6 +17,8 @@ Here is a collection of formal talks and presentations that I've given. Feel fre
 
 ## Short Talks
 
+**June 01, 2020** Cardiac catheterization lab conference, with a few [STEMIs from call](https://asshah4.github.io/clinical/cases/06-01-21_cath-case-conference/cath-case-conference.html).
+
 **March 16, 2020** Cardiac catheterization lab conference, with a focus of [three PCI cases](https://asshah4.github.io/clinical/cases/03-16-21_cath-case-conference/cath-case-conference.html).
 
 **December 23, 2020** A brief overview of [cardiac tamponade](https://asshah4.github.io/clinical/cases/12-23-20_pocus-cardiac-tamponade/pocus-cardiac-tamponade.html) for the POCUS curriculum for internal medicine residents.
