@@ -9,7 +9,7 @@ navbar:
     - text: "Research"
       href: research.html
     - text: "Clinical"
-      href: https://asshah4.github.io/clinical
+      href: https://asshah4.github.io/clinical/index.html
     - text: "Talks"
       href: talks.html
     - text: "Projects"
