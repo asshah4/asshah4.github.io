@@ -6,41 +6,9 @@ title: Projects
 knitr::opts_chunk$set(echo = TRUE)
 ```
 
-# Thoughts 
+# {forks}
 
-Essentially a non-serialized blog, [thoughts](https://asshah4.github.io/thoughts) is a sandbox to document and explore ideas for me.
+# {armour}
 
-More important than a final product is the thought process and exploration required to get their. Poor documentation, either clinically or programmatically, leaves questions about the past. 
-
-This started as a reflection on the start of specific functions, which ended up becoming parts of packages (e.g. `card`, `marksman`). It addressed clinical questions through research using `R`, and has slowly expanded to include clinical elements that provide context.
-
-Key elements:
-
-- technical and computational elements
-- electrocardiography
-- modeling and epidemiology
-- autonomic dysfunction
-- clinical cardiology
-
-# [{card}](https://asshah4.github.io/card)
-
-**Cardiovascular and Autonomic Research Design**
-
-As part of my research in computational neurocardiology, I've come to  respect the adage _Don't Repeat Yourself_. I've started to develop functions related to:
-
-- cardiovascular disease
-- signal processing
-- epidemiology
-- circadian rhythms
-- recurrent event analysis
-
-The package `{card}` was created to improve the research efforts in analyzing circadian and autonomic events, and is now available for download on CRAN.
-
-# [{murmur}](https://asshah4.github.io/murmur)
-
-**murmur: Multiple Unexplained Relationships Modeled Using R**
-
-As a researcher, both for grants and papers that are usually mechanistic / causal in nature, I've realized that the modeling workflow in R is very exploratory in nature, as seen in `tidymodels`. With my own research, a negative hypothesis should still be documented, and thus, holding on to and organizing hypotheses is important. 
-
-The `murmur` package provides a simple and tidy way to organize the many models built during a research project. The package consists of individual hypothesis objects that are all linked together around data set. In causality-based research, such as epidemiology, the focus is on specific hypothesis that can be tested. However, the number of models and tests can become unruly. This serves as a way to organize the many.
+#
 
