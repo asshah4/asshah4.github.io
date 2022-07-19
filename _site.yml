@@ -7,9 +7,9 @@ navbar:
     - text: "Curriculum Vitae"
       href: https://asshah4.github.io/cv/vitae.pdf
     - text: "Research"
-      href: https://asshah4.github.io/research/index.html
+      href: https://asshah4.github.io/research
     - text: "Clinical"
-      href: https://asshah4.github.io/clinical/index.html
+      href: https://asshah4.github.io/clinical
     - text: "Talks"
       href: talks.html
     - text: "Projects"
