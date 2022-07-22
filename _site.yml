@@ -7,13 +7,15 @@ navbar:
     - text: "Curriculum Vitae"
       href: https://asshah4.github.io/cv/vitae.pdf
     - text: "Research"
-      href: research.html
+      href: https://asshah4.github.io/research
     - text: "Clinical"
-      href: https://asshah4.github.io/clinical/index.html
+      href: https://asshah4.github.io/clinical
     - text: "Talks"
       href: talks.html
     - text: "Projects"
       href: projects.html
+    - text: "Notes"
+      href: https://asshah4.github.io/notes
   right:
     - icon: fa-envelope fa-lg
       href: mailto:asshah4@emory.edu
@@ -28,6 +30,9 @@ output:
   html_document:
     theme: flatly
     highlight: tango
+    toc: true
+    toc_float: true
     include:
       after_body: footer.html
     css: styles.css
+
