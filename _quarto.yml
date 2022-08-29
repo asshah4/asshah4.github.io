@@ -1,0 +1,41 @@
+project:
+  type: website
+  output-dir: docs
+
+website:
+  title: "Anish S. Shah, MD|MS"
+  navbar:
+    background: primary
+    left:
+      - href: index.qmd
+        text: About Me
+      - text: "Curriculum Vitae"
+        href: https://asshah4.github.io/cv/vitae.pdf
+      - text: "Research"
+        href: https://asshah4.github.io/research
+      - text: "Clinical"
+        href: https://asshah4.github.io/clinical
+      - text: "Talks"
+        href: talks.html
+      - text: "Projects"
+        href: projects.html
+      - text: "Notes"
+        href: https://asshah4.github.io/notes
+    right:
+      - icon: fa-envelope fa-lg
+        href: mailto:ashah282@uic.edu
+      - icon: fa-github fa-lg
+        href: http://github.com/asshah4
+      - icon: fa-twitter fa-lg
+        href: https://twitter.com/shah_in_boots
+      - icon: fa-linkedin fa-lg
+        href: https://www.linkedin.com/in/anish-shah-326991177/
+
+format:
+  html:
+    theme: flatly
+    highlight: solarized-light
+    css: styles.css
+    toc: true
+    toc_float: true
+
