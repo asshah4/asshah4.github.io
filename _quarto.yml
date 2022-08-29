@@ -9,17 +9,19 @@ website:
     left:
       - href: index.qmd
         text: About Me
-      - text: "Curriculum Vitae"
+      - text: Curriculum Vitae
         href: https://asshah4.github.io/cv/vitae.pdf
-      - text: "Research"
+      - text: Research
         href: https://asshah4.github.io/research
-      - text: "Clinical"
+      - text: Clinical
         href: https://asshah4.github.io/clinical
-      - text: "Talks"
+      - text: Talks
         href: talks.html
-      - text: "Projects"
-        href: projects.html
-      - text: "Notes"
+      - text: Projects
+        menu:
+          - text: "{lazarus}"
+            href: https://asshah4.github.io/lazarus
+      - text: Notes
         href: https://asshah4.github.io/notes
     right:
       - icon: fa-envelope fa-lg
@@ -30,6 +32,8 @@ website:
         href: https://twitter.com/shah_in_boots
       - icon: fa-linkedin fa-lg
         href: https://www.linkedin.com/in/anish-shah-326991177/
+  page-navigation: true
+  page-footer: "Copyright (c) 2022, Anish. S. Shah, MD, MS"
 
 format:
   html:
