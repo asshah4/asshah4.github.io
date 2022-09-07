@@ -8,7 +8,7 @@ website:
     background: primary
     left:
       - href: index.qmd
-        text: About Me
+        text: Me
       - text: Curriculum Vitae
         href: https://asshah4.github.io/cv/vitae.pdf
       - text: Research
@@ -21,6 +21,10 @@ website:
         menu:
           - text: "{lazarus}"
             href: https://asshah4.github.io/lazarus
+          - text: "{arcana}"
+            href: https://asshah4.github.io/arcana
+          - text: "{volundr}"
+            href: https://asshah4.github.io/volundr
       - text: Notes
         href: https://asshah4.github.io/notes
     right:
