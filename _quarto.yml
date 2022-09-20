@@ -25,6 +25,8 @@ website:
             href: https://asshah4.github.io/arcana
           - text: "{volundr}"
             href: https://asshah4.github.io/volundr
+          - text: "{durandal}"
+            href: https://asshah4.github.io/durandal
       - text: Notes
         href: https://asshah4.github.io/notes
     right:
