@@ -43,9 +43,17 @@ website:
 
 format:
   html:
-    theme: flatly
+    theme: [flatly, styles.scss]
     highlight: solarized-light
-    css: styles.css
+    css: styles.scss
     toc: true
     toc_float: true
+  revealjs:
+    theme: [simple, styles.scss]
+    slide-tone: true
+    fig-cap-location: bottom
+    fig-align: center
+    fig-responsive: true
 
+bibliography: ../bibliography/Research.bib
+csl: ../bibliography/jacc.csl

@@ -1,9 +1,13 @@
 ---
-title: About Me
+title: Me
+format: html
 ---
 
-# Howdy
+Howdy! I'm Anish Shah. I am a...
 
-My interest is in studying the effects of stress on the body. I do this using a computational approach to neurocardiology. I currently serve as a cardiology fellow at University of Illinois at Chicago on the research track, and work at both University of Illinois Hospital and the Jesse Brown Veterans Affairs Medical Center.
+- Proud Dod Dad to Harper and Ripley
+- Husband to a Wonderful and Beautiful Wife
+- Cardiology/Research Fellow at the [University of Illinois at Chicago](https://chicago.medicine.uic.edu/departments/academic-departments/medicine/cardiology/education/fellowship-program/) and the [Jesse Brown VA](https://www.va.gov/chicago-health-care/locations/jesse-brown-department-of-veterans-affairs-medical-center/)
+- Former Resident of the [J. Willis Hurst Internal Medicine Residency](https://med.emory.edu/departments/medicine/education/residency-program/index.html)
+- Alumni of Texas A&M University for my [doctorate](https://medicine.tamu.edu) and Emory University for my [baccalaureate](http://linguistics.emory.edu/home/) and [master's degree](https://med.emory.edu/departments/biomedical-informatics/education/masters.html)
 
-I am an active R user and have an interest in biostatistical techniques to analyze physiological data, such as circadian rhythms, using electrocardiography. 
