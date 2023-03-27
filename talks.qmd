@@ -21,6 +21,8 @@ THis is a series of formal presentations I've given that are primary academic, r
 
 ## Chalk talks
 
+1. __February 23, 2023__ An overview of echo-focused evaluation of [hypertrophic cardiomyopathy](https://asshah4.github.io/clinical/chalk_talks/02-22-23_hcm-overview/hcm-overview.html)
+1. __November 16, 2021__ An [introduction to antiplatelet agents](https://asshah4.github.io/clinical/chalk_talks/11-16-21_antiplatelet-agents/antiplatelets.html) in atherosclerotic disease.
 1. __September 26, 2018__ Another bite-sized teaching mode talk on [transfusions in sickle cell](https://docs.google.com/presentation/d/1MrrWmaZ1-U76AK7TtutUDGz8sJ4nyse467jfHpRR4O4/present#slide=id.p1). Gave this talk again on __October 4, 2018__ at the Southern Hospital Medicine conference as an example of alternative teaching methods.
 1. __February 28, 2018__ I gave a _bite-sized teaching mode_ talk on [treating rashes](https://docs.google.com/presentation/d/e/2PACX-1vQRVke_1-uvStSty5mo0Q2dh_WjeMdnDgQ8-nt8Vff8Gqd4J0Pzn3ZomxVyb8LcWf2yYYAuRl5TO_cp/pub?start=false&loop=false&delayms=3000). The purpose of this style of talk is to explain and actually teach a topic in less than 8 minutes. Giving the talk itself emphasized learning _how_ to teach.
 
@@ -31,6 +33,7 @@ These are a list of all the conferences and talks that I have given during clini
 
 ## Cardiology Fellowship
 
+1. __March 27, 2023__ [Morbidity and mortality](https://asshah4.github.io/clinical/cases/03-27-23-mm-conference/mm-conference.html) conference on adjunctive cardiac surgeries during valve replacement.
 1. __January 24, 2023__ Brief [cardiac catheterization case conference](https://asshah4.github.io/clinical/cases/01-24-23_cath-case-conference/cath-conference.html) on complex/staged PCI.
 1. __December 08, 2022__ A [case of typical AVNRT](https://asshah4.github.io/clinical/lectures/avnrt-series/typical_avnrt.html) in the EP lab, with EGM recordings as the primary focus. These include surface ECG, EGM, and pacing maneuvers.
 1. __May 24, 2022__ Brief [cardiac catheterization case conference](https://asshah4.github.io/clinical/cases/05-24-22_cath-case-conference/cath-conference.html) discussion of a triple-vessel disease patient with UGIB that was surgically turned down for bypass, pending surgery for infection. 
@@ -40,7 +43,6 @@ These are a list of all the conferences and talks that I have given during clini
 1. __November 30, 2021__ Illinois Medical District Cath Conference [presentation](https://asshah4.github.io/clinical/cases/11-30-21_imd-talk/imd-slides.html) on Wellen's Syndrome in a LAD STEMI patient.
 1. __November 23, 2021__ Short [cardiac catheterization case conference](https://asshah4.github.io/clinical/cases/11-23-21_cath-case-conference/cath-conference.html) on a late-presenting STEMI at the time of a massive CVA, and a standard peripheral intervention to the left iliac arteries. 
 1. __November 16, 2021__ Short [cardiac catheterization case conference](https://asshah4.github.io/clinical/cases/11-16-21_cath-case-conference/cath-conference.html) with a two-vessel CAD pre-transplant that was revascularized, and two STEMI cases.
-1. __November 16, 2021__ An [introduction to antiplatelet agents](https://asshah4.github.io/clinical/chalk_talks/11-16-21_antiplatelet-agents/antiplatelets.html) in atherosclerotic disease.
 1. __November 09, 2021__ Short [cardiac catheterization case conference](https://asshah4.github.io/clinical/cases/11-09-21_cath-case-conference/cath-conference.html) with an anterior STEMI and no-reflow to LAD.
 1. __October 18, 2021__ A [mortality and morbidity conference](https://asshah4.github.io/clinical/cases/10-18-21_m&m-conference/smvr-case.html) on rheumatic heart disease and mitral stenosis, deferring percutaneous balloon mitral valvuloplasty for surgical mechanical mitral valve replacement.
 1. __October 12, 2021__ Short [cardiac catheterization case conference](https://asshah4.github.io/clinical/cases/10-12-21_cath-case-conference/cath-conference.html), with RCA Shockwave, interesting coronary anatomy, and a case of false-positive stress testing with anginal symptoms.
