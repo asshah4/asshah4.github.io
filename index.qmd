@@ -5,7 +5,7 @@ format: html
 
 Howdy! I'm Anish Shah. I am a...
 
-- Proud Dod Dad to Harper and Ripley
+- Proud Dad Dad to Harper and Ripley
 - Husband to a Wonderful and Beautiful Wife
 - Cardiology/Research Fellow at the [University of Illinois at Chicago](https://chicago.medicine.uic.edu/departments/academic-departments/medicine/cardiology/education/fellowship-program/) and the [Jesse Brown VA](https://www.va.gov/chicago-health-care/locations/jesse-brown-department-of-veterans-affairs-medical-center/)
 - Former Resident of the [J. Willis Hurst Internal Medicine Residency](https://med.emory.edu/departments/medicine/education/residency-program/index.html)
