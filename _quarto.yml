@@ -19,15 +19,15 @@ website:
         href: talks.html
       - text: Projects
         menu:
-          - text: "{orbs}"
+          - text: "R/orbs"
             href: https://asshah4.github.io/orbs
-          - text: "{vlndr}"
+          - text: "R/vlndr"
             href: https://asshah4.github.io/vlndr
-          - text: "{shiva}"
+          - text: "R/shiva"
             href: https://asshah4.github.io/shiva
-          - text: "{card}"
+          - text: "R/card"
             href: https://asshah4.github.io/card
-          - text: "{lzrs}"
+          - text: "R/lzrs"
             href: https://asshah4.github.io/lzrs
       - text: Notes
         href: https://asshah4.github.io/notes
@@ -54,7 +54,9 @@ csl: ../bibliography/jacc.csl
 
 format:
   html:
-    theme: [flatly, styles.scss]
+    theme:
+      - flatly
+      - theme.scss
     highlight: solarized-light
     toc: true
     toc_float: true
