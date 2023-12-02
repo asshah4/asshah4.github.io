@@ -19,12 +19,16 @@ website:
         href: talks.html
       - text: Projects
         menu:
-          - text: "{ouroborus}"
-            href: https://asshah4.github.io/ouroborus
-          - text: "{volundr}"
-            href: https://asshah4.github.io/volundr
-          - text: "{durandal}"
-            href: https://asshah4.github.io/durandal
+          - text: "{orbs}"
+            href: https://asshah4.github.io/orbs
+          - text: "{vlndr}"
+            href: https://asshah4.github.io/vlndr
+          - text: "{shiva}"
+            href: https://asshah4.github.io/shiva
+          - text: "{card}"
+            href: https://asshah4.github.io/card
+          - text: "{lzrs}"
+            href: https://asshah4.github.io/lzrs
       - text: Notes
         href: https://asshah4.github.io/notes
     right:
@@ -39,11 +43,19 @@ website:
   page-navigation: true
   page-footer: "Copyright (c) 2023, Anish. S. Shah, MD, MS"
 
+bibliography:
+  - ../bibliography/publications.bib
+  - ../bibliography/cardiology.bib
+  - ../bibliography/arrhythmia.bib
+  - ../bibliography/computational.bib
+  - ../bibliography/epidemiology.bib
+
+csl: ../bibliography/jacc.csl
+
 format:
   html:
     theme: [flatly, styles.scss]
     highlight: solarized-light
-    css: styles.scss
     toc: true
     toc_float: true
   revealjs:
@@ -52,6 +64,3 @@ format:
     fig-cap-location: bottom
     fig-align: center
     fig-responsive: true
-
-bibliography: ../bibliography/Research.bib
-csl: ../bibliography/jacc.csl

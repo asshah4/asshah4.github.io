@@ -1,35 +1,88 @@
 /*-- scss:defaults --*/
-$theme-blue: #2096F2;
-$theme-orange: #F8A725;
-$theme-red: #E91E63;
-$theme-green: #00796B;
-$theme-grey: #455964;
 
+$white:    #fff !default;
+$gray-100: #f8f9fa !default;
+$gray-200: #ecf0f1 !default;
+$gray-300: #dee2e6 !default;
+$gray-400: #ced4da !default;
+$gray-500: #b4bcc2 !default;
+$gray-600: #95a5a6 !default;
+$gray-700: #7b8a8b !default;
+$gray-800: #343a40 !default;
+$gray-900: #212529 !default;
+$black:    #000 !default;
+
+$cream: 	#e9d8a6 !default;
+$blue:    #005f60 !default;
+$indigo:  #838a94 !default;
+$purple:  #001219 !default;
+$pink:    #9b2226 !default;
+$red:     #fd5901 !default;
+$orange:  #f78104 !default;
+$yellow:  #faab36 !default;
+$green:		#6c935b	!default;
+$teal:		#008083	!default;
+$cyan:    #249ea0 !default;
+
+$primary:       $blue 		!default;
+$secondary:     $teal		!default;
+$success:       $yellow			!default;
+$info:          $cyan 	!default;
+$warning:       $pink 	!default;
+$danger:        $orange 	!default;
+$light:         $cream		!default;
+$dark:          $purple 	!default;
+
+/* highlighting colors */
+$my-grey: #455964;
+$my-blue: #2096f2;
+$my-red: #b35673;
+
+$my-orange: #ef6024;
+$my-yellow: #f0941f;
+$my-light: #90a19d;
+$my-green: #196774;
+$my-dark: #363432;
 
 /*-- scss:rules --*/
 
 .blue {
-	color: $theme-blue;
+	color: $my-blue;
 	font-weight: bold;
 }
 
 .orange {
-	color: $theme-orange;
+	color: $my-orange;
+	font-weight: bold;
+}
+
+.yellow {
+	color: $my-yellow;
+	font-weight: bold;
+}
+
+.dark {
+	color: $my-dark;
+	font-weight: bold;
+}
+
+.light {
+	color: $my-light;
 	font-weight: bold;
 }
 
 .red {
-	color: $theme-red;
+	color: $my-red;
 	font-weight: bold;
 }
 
 .green {
-	color: $theme-green;
+	color: $my-green;
 	font-weight: bold;
 }
 
 .grey {
-	color: $theme-grey;
+	color: $my-grey;
 	font-weight: normal;
 }
 
@@ -43,4 +96,16 @@ $theme-grey: #455964;
 
 .center {
 	text-align: center;
+}
+
+.tiny {
+	font-size: 26px;
+}
+
+.tinier {
+	font-size: 22px;
+}
+
+.tiniest {
+	font-size: 18px;
 }

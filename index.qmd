@@ -1,13 +1,32 @@
 ---
-title: Me
+title: I
 format: html
 ---
 
-Howdy! I'm Anish Shah. I am a...
+Howdy!
 
-- Proud Dod Dad to Harper and Ripley
-- Husband to a Wonderful and Beautiful Wife
-- Cardiology/Research Fellow at the [University of Illinois at Chicago](https://chicago.medicine.uic.edu/departments/academic-departments/medicine/cardiology/education/fellowship-program/) and the [Jesse Brown VA](https://www.va.gov/chicago-health-care/locations/jesse-brown-department-of-veterans-affairs-medical-center/)
-- Former Resident of the [J. Willis Hurst Internal Medicine Residency](https://med.emory.edu/departments/medicine/education/residency-program/index.html)
-- Alumni of Texas A&M University for my [doctorate](https://medicine.tamu.edu) and Emory University for my [baccalaureate](http://linguistics.emory.edu/home/) and [master's degree](https://med.emory.edu/departments/biomedical-informatics/education/masters.html)
+I am a physician and scientist, in continual training for both.
 
+I'm initially received my [baccalaureate](http://linguistics.emory.edu/home/) in linguistics and behavioral neuroscience from Emory University.
+
+I returned to Texas to receive my doctorate from [Texas A&M University](https://medicine.tamu.edu).
+
+I completed my initial clinical training as a resident physician of the [J. Willis Hurst Internal Medicine Residency](https://med.emory.edu/departments/medicine/education/residency-program/index.html) program at Emory University. 
+I subsequently completed by initial research training at Emory in the Rollins School of Public Health, receiving a NIH-TL1 award and completing my [master's degree](https://med.emory.edu/departments/biomedical-informatics/education/masters.html).
+
+I then moved to Chicago to for further clinical training as a cardiology fellow at the [University of Illinois at Chicago](https://chicago.medicine.uic.edu/departments/academic-departments/medicine/cardiology/education/fellowship-program/) and the [Jesse Brown VA](https://www.va.gov/chicago-health-care/locations/jesse-brown-department-of-veterans-affairs-medical-center/).
+I was awarded and an NIH-F32 award and completed it on the research track as part of the institutional T32 program.
+
+I am now moving to the [University of Utah](https://medicine.utah.edu/internal-medicine/cardiovascular-medicine) to (hopefully) complete my training in cardiac electrophysiology.
+
+## II
+
+I am a husband to a beautiful and kind and wonderful wife, who has supported me every step of the way.
+
+![Our beautiful boy and girl accompanying us on our wedding day](./figures/family-photo-mahr.jpg)
+
+Together, we are the dog-parents to our super-smart and super-sassy dogs, Harper and Ripley.
+
+## III
+
+I ...

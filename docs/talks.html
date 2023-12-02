@@ -2,7 +2,7 @@
 <html xmlns="http://www.w3.org/1999/xhtml" lang="en" xml:lang="en"><head>
 
 <meta charset="utf-8">
-<meta name="generator" content="quarto-1.2.269">
+<meta name="generator" content="quarto-1.3.450">
 
 <meta name="viewport" content="width=device-width, initial-scale=1.0, user-scalable=yes">
 
@@ -17,7 +17,7 @@ div.hanging-indent{margin-left: 1.5em; text-indent: -1.5em;}
 ul.task-list{list-style: none;}
 ul.task-list li input[type="checkbox"] {
   width: 0.8em;
-  margin: 0 0.8em 0.2em -1.6em;
+  margin: 0 0.8em 0.2em -1em; /* quarto-specific, see https://github.com/quarto-dev/quarto-cli/issues/4556 */ 
   vertical-align: middle;
 }
 </style>
@@ -55,12 +55,13 @@ ul.task-list li input[type="checkbox"] {
     "search-more-matches-text": "more matches in this document",
     "search-clear-button-title": "Clear",
     "search-detached-cancel-button-title": "Cancel",
-    "search-submit-button-title": "Submit"
+    "search-submit-button-title": "Submit",
+    "search-label": "Search"
   }
 }</script>
 
 
-<link rel="stylesheet" href="styles.css">
+<link rel="stylesheet" href="styles.scss">
 </head>
 
 <body class="nav-fixed">
@@ -74,82 +75,88 @@ ul.task-list li input[type="checkbox"] {
     <span class="navbar-title">Anish S. Shah, MD|MS</span>
     </a>
   </div>
+            <div id="quarto-search" class="" title="Search"></div>
           <button class="navbar-toggler" type="button" data-bs-toggle="collapse" data-bs-target="#navbarCollapse" aria-controls="navbarCollapse" aria-expanded="false" aria-label="Toggle navigation" onclick="if (window.quartoToggleHeadroom) { window.quartoToggleHeadroom(); }">
   <span class="navbar-toggler-icon"></span>
 </button>
           <div class="collapse navbar-collapse" id="navbarCollapse">
             <ul class="navbar-nav navbar-nav-scroll me-auto">
   <li class="nav-item">
-    <a class="nav-link" href="./index.html">
+    <a class="nav-link" href="./index.html" rel="" target="">
  <span class="menu-text">Me</span></a>
   </li>  
   <li class="nav-item">
-    <a class="nav-link" href="https://asshah4.github.io/cv/vitae.pdf">
+    <a class="nav-link" href="https://asshah4.github.io/cv/vitae.pdf" rel="" target="">
  <span class="menu-text">Curriculum Vitae</span></a>
   </li>  
   <li class="nav-item">
-    <a class="nav-link" href="https://asshah4.github.io/research">
+    <a class="nav-link" href="https://asshah4.github.io/research" rel="" target="">
  <span class="menu-text">Research</span></a>
   </li>  
   <li class="nav-item">
-    <a class="nav-link" href="https://asshah4.github.io/clinical">
+    <a class="nav-link" href="https://asshah4.github.io/clinical" rel="" target="">
  <span class="menu-text">Clinical</span></a>
   </li>  
   <li class="nav-item">
-    <a class="nav-link active" href="./talks.html" aria-current="page">
+    <a class="nav-link active" href="./talks.html" rel="" target="" aria-current="page">
  <span class="menu-text">Talks</span></a>
   </li>  
   <li class="nav-item dropdown ">
-    <a class="nav-link dropdown-toggle" href="#" id="nav-menu-projects" role="button" data-bs-toggle="dropdown" aria-expanded="false">
+    <a class="nav-link dropdown-toggle" href="#" id="nav-menu-projects" role="button" data-bs-toggle="dropdown" aria-expanded="false" rel="" target="">
  <span class="menu-text">Projects</span>
     </a>
     <ul class="dropdown-menu" aria-labelledby="nav-menu-projects">    
         <li>
-    <a class="dropdown-item" href="https://asshah4.github.io/lazarus">
- <span class="dropdown-text">{lazarus}</span></a>
+    <a class="dropdown-item" href="https://asshah4.github.io/orbs" rel="" target="">
+ <span class="dropdown-text">{orbs}</span></a>
   </li>  
         <li>
-    <a class="dropdown-item" href="https://asshah4.github.io/arcana">
- <span class="dropdown-text">{arcana}</span></a>
+    <a class="dropdown-item" href="https://asshah4.github.io/vlndr" rel="" target="">
+ <span class="dropdown-text">{vlndr}</span></a>
   </li>  
         <li>
-    <a class="dropdown-item" href="https://asshah4.github.io/volundr">
- <span class="dropdown-text">{volundr}</span></a>
+    <a class="dropdown-item" href="https://asshah4.github.io/shiva" rel="" target="">
+ <span class="dropdown-text">{shiva}</span></a>
   </li>  
         <li>
-    <a class="dropdown-item" href="https://asshah4.github.io/durandal">
- <span class="dropdown-text">{durandal}</span></a>
+    <a class="dropdown-item" href="https://asshah4.github.io/card" rel="" target="">
+ <span class="dropdown-text">{card}</span></a>
+  </li>  
+        <li>
+    <a class="dropdown-item" href="https://asshah4.github.io/lzrs" rel="" target="">
+ <span class="dropdown-text">{lzrs}</span></a>
   </li>  
     </ul>
   </li>
   <li class="nav-item">
-    <a class="nav-link" href="https://asshah4.github.io/notes">
+    <a class="nav-link" href="https://asshah4.github.io/notes" rel="" target="">
  <span class="menu-text">Notes</span></a>
   </li>  
 </ul>
             <ul class="navbar-nav navbar-nav-scroll ms-auto">
   <li class="nav-item compact">
-    <a class="nav-link" href="mailto:ashah282@uic.edu"><i class="bi bi-envelope" role="img">
+    <a class="nav-link" href="mailto:ashah282@uic.edu" rel="" target=""><i class="bi bi-envelope" role="img">
 </i> 
  <span class="menu-text"></span></a>
   </li>  
   <li class="nav-item compact">
-    <a class="nav-link" href="http://github.com/asshah4"><i class="bi bi-github" role="img">
+    <a class="nav-link" href="http://github.com/asshah4" rel="" target=""><i class="bi bi-github" role="img">
 </i> 
  <span class="menu-text"></span></a>
   </li>  
   <li class="nav-item compact">
-    <a class="nav-link" href="https://twitter.com/shah_in_boots"><i class="bi bi-twitter" role="img">
+    <a class="nav-link" href="https://twitter.com/shah_in_boots" rel="" target=""><i class="bi bi-twitter" role="img">
 </i> 
  <span class="menu-text"></span></a>
   </li>  
   <li class="nav-item compact">
-    <a class="nav-link" href="https://www.linkedin.com/in/anish-shah-326991177/"><i class="bi bi-linkedin" role="img">
+    <a class="nav-link" href="https://www.linkedin.com/in/anish-shah-326991177/" rel="" target=""><i class="bi bi-linkedin" role="img">
 </i> 
  <span class="menu-text"></span></a>
   </li>  
 </ul>
-              <div id="quarto-search" class="" title="Search"></div>
+            <div class="quarto-navbar-tools">
+</div>
           </div> <!-- /navcollapse -->
       </div> <!-- /container-fluid -->
     </nav>
@@ -163,18 +170,18 @@ ul.task-list li input[type="checkbox"] {
     <h2 id="toc-title">On this page</h2>
    
   <ul>
-  <li><a href="#academic-talks" id="toc-academic-talks" class="nav-link active" data-scroll-target="#academic-talks">Academic Talks</a>
+  <li><a href="#talks" id="toc-talks" class="nav-link active" data-scroll-target="#talks">Talks</a>
   <ul class="collapse">
-  <li><a href="#talks" id="toc-talks" class="nav-link" data-scroll-target="#talks">Talks</a></li>
   <li><a href="#seminars" id="toc-seminars" class="nav-link" data-scroll-target="#seminars">Seminars</a></li>
   <li><a href="#conferences" id="toc-conferences" class="nav-link" data-scroll-target="#conferences">Conferences</a></li>
+  <li><a href="#chalk-talks" id="toc-chalk-talks" class="nav-link" data-scroll-target="#chalk-talks">Chalk talks</a></li>
   </ul></li>
   <li><a href="#clinical-cases" id="toc-clinical-cases" class="nav-link" data-scroll-target="#clinical-cases">Clinical Cases</a>
   <ul class="collapse">
   <li><a href="#cardiology-fellowship" id="toc-cardiology-fellowship" class="nav-link" data-scroll-target="#cardiology-fellowship">Cardiology Fellowship</a></li>
   </ul></li>
   </ul>
-</nav>
+<div class="quarto-alternate-formats"><h2>Other Formats</h2><ul><li><a href="talks.html"><i class="bi bi-file-slides"></i>RevealJS</a></li></ul></div></nav>
     </div>
 <!-- main -->
 <main class="content" id="quarto-document-content">
@@ -196,16 +203,9 @@ ul.task-list li input[type="checkbox"] {
 
 </header>
 
-<section id="academic-talks" class="level1">
-<h1>Academic Talks</h1>
-<p>Here is a collection of select formal presentations that I’ve given. Feel free to reference as needed. <a href="https://twitter.com/hashtag/foamed">#FOAMed</a> They range in variety of topics.</p>
-<section id="talks" class="level2">
-<h2 class="anchored" data-anchor-id="talks">Talks</h2>
-<ol type="1">
-<li><strong>September 26, 2018</strong> Another bite-sized teaching mode talk on <a href="https://docs.google.com/presentation/d/1MrrWmaZ1-U76AK7TtutUDGz8sJ4nyse467jfHpRR4O4/present#slide=id.p1">transfusions in sickle cell</a>. Gave this talk again on <strong>October 4, 2018</strong> at the Southern Hospital Medicine conference as an example of alternative teaching methods.</li>
-<li><strong>February 28, 2018</strong> I gave a <em>bite-sized teaching mode</em> talk on <a href="https://docs.google.com/presentation/d/e/2PACX-1vQRVke_1-uvStSty5mo0Q2dh_WjeMdnDgQ8-nt8Vff8Gqd4J0Pzn3ZomxVyb8LcWf2yYYAuRl5TO_cp/pub?start=false&amp;loop=false&amp;delayms=3000">treating rashes</a>. The purpose of this style of talk is to explain and actually teach a topic in less than 8 minutes. Giving the talk itself emphasized learning <em>how</em> to teach.</li>
-</ol>
-</section>
+<section id="talks" class="level1">
+<h1>Talks</h1>
+<p>THis is a series of formal presentations I’ve given that are primary academic, ranging on general medicine topics, medical education, and more recently in cardiology.</p>
 <section id="seminars" class="level2">
 <h2 class="anchored" data-anchor-id="seminars">Seminars</h2>
 <ol type="1">
@@ -221,6 +221,13 @@ ul.task-list li input[type="checkbox"] {
 <li><strong>December 20, 2020</strong> As a cardiology fellow, we have clinical case conferences to review interesting or puzzling cases with evidence-based analysis. Here is an interesting case of <a href="http:://asshah4-github.io/clinical/cases/12-14-20_biatrial-enlargement/biatrial-enlargement.html">restrictive cardiomyopathy</a>, including the work-up and a brief differential on etiologies.</li>
 <li><strong>March 21, 2018</strong> With literature from early-terminated trials during 2018, I gave a <a href="https://docs.google.com/presentation/d/e/2PACX-1vRsD-2d4edr4G1Y5pEBvGMnDoG5PErGIJu8_F1jrJlso9DwvfCo5rwKINpn16_boiHfJa_wkRmgZGQH/pub?start=false&amp;loop=false&amp;delayms=3000">journal club lecture</a> on the updated guidelines on thrombectomy for ischemic strokes. My <a href="https://docs.google.com/document/d/e/2PACX-1vRJx-3n9nAP1oSieonEs8mmPcsoHwyvUtJNcRJTTiARtNxQuGfIxJwMtK-FJFVrs2nOOMvcC_0243-O/pub">notes</a> for it serve as a reference and series of citations, with a <a href="https://docs.google.com/document/d/e/2PACX-1vTUNgylVolLVZ9YkrqkADNB9s2XM6Ee9OFvUYprZ-T7FxPEKJTmI9M0YhTuKeO12xbwFswCmV-j_oP4/pub">handout</a> to improve viewer interaction. The largest issue I find was in the interpretation of their <strong>Table 1</strong> showing non-adjusted odds ratios for an ordinal scale, listed next to a P-value.</li>
 <li><strong>March 15, 2018</strong> As a resident, there is a shift into becoming a teacher to both medical students and near-peers while being a learner as well. A significant amount of residents actually develop critical failures in the learning process. Here is an approach I <a href="https://docs.google.com/presentation/d/e/2PACX-1vSKWQvLnS7C12s44EHJAk4ewrdwYM7WvJrLigndn9uZCz8m16cqDPvPtYMkwosxTG-7Cw3QEWkR-fHT/pub?start=false&amp;loop=false&amp;delayms=3000">presented</a>, with supporting <a href="https://docs.google.com/document/d/e/2PACX-1vQoE0lM5dsy5r3Vtm9iwJtxXZccCqN7zW7yVkhLhWVlLgvjPfe30Ud-Z27E0ngE3GiyMP727JxF8IlB/pub">literature</a> and an <a href="https://docs.google.com/document/d/e/2PACX-1vQd5LzOgEjZi2kNC5XwvUrxU1IzpFmt6fiP8MoppCfwYrpEASLHa4R-5J0CHpz7zvWVZIIXrryYSao_/pub">outline</a> to be shared.</li>
+</ol>
+</section>
+<section id="chalk-talks" class="level2">
+<h2 class="anchored" data-anchor-id="chalk-talks">Chalk talks</h2>
+<ol type="1">
+<li><strong>September 26, 2018</strong> Another bite-sized teaching mode talk on <a href="https://docs.google.com/presentation/d/1MrrWmaZ1-U76AK7TtutUDGz8sJ4nyse467jfHpRR4O4/present#slide=id.p1">transfusions in sickle cell</a>. Gave this talk again on <strong>October 4, 2018</strong> at the Southern Hospital Medicine conference as an example of alternative teaching methods.</li>
+<li><strong>February 28, 2018</strong> I gave a <em>bite-sized teaching mode</em> talk on <a href="https://docs.google.com/presentation/d/e/2PACX-1vQRVke_1-uvStSty5mo0Q2dh_WjeMdnDgQ8-nt8Vff8Gqd4J0Pzn3ZomxVyb8LcWf2yYYAuRl5TO_cp/pub?start=false&amp;loop=false&amp;delayms=3000">treating rashes</a>. The purpose of this style of talk is to explain and actually teach a topic in less than 8 minutes. Giving the talk itself emphasized learning <em>how</em> to teach.</li>
 </ol>
 </section>
 </section>
@@ -286,9 +293,23 @@ window.document.addEventListener("DOMContentLoaded", function (event) {
     icon: icon
   };
   anchorJS.add('.anchored');
+  const isCodeAnnotation = (el) => {
+    for (const clz of el.classList) {
+      if (clz.startsWith('code-annotation-')) {                     
+        return true;
+      }
+    }
+    return false;
+  }
   const clipboard = new window.ClipboardJS('.code-copy-button', {
-    target: function(trigger) {
-      return trigger.previousElementSibling;
+    text: function(trigger) {
+      const codeEl = trigger.previousElementSibling.cloneNode(true);
+      for (const childEl of codeEl.children) {
+        if (isCodeAnnotation(childEl)) {
+          childEl.remove();
+        }
+      }
+      return codeEl.innerText;
     }
   });
   clipboard.on('success', function(e) {
@@ -353,6 +374,92 @@ window.document.addEventListener("DOMContentLoaded", function (event) {
       return note.innerHTML;
     });
   }
+      let selectedAnnoteEl;
+      const selectorForAnnotation = ( cell, annotation) => {
+        let cellAttr = 'data-code-cell="' + cell + '"';
+        let lineAttr = 'data-code-annotation="' +  annotation + '"';
+        const selector = 'span[' + cellAttr + '][' + lineAttr + ']';
+        return selector;
+      }
+      const selectCodeLines = (annoteEl) => {
+        const doc = window.document;
+        const targetCell = annoteEl.getAttribute("data-target-cell");
+        const targetAnnotation = annoteEl.getAttribute("data-target-annotation");
+        const annoteSpan = window.document.querySelector(selectorForAnnotation(targetCell, targetAnnotation));
+        const lines = annoteSpan.getAttribute("data-code-lines").split(",");
+        const lineIds = lines.map((line) => {
+          return targetCell + "-" + line;
+        })
+        let top = null;
+        let height = null;
+        let parent = null;
+        if (lineIds.length > 0) {
+            //compute the position of the single el (top and bottom and make a div)
+            const el = window.document.getElementById(lineIds[0]);
+            top = el.offsetTop;
+            height = el.offsetHeight;
+            parent = el.parentElement.parentElement;
+          if (lineIds.length > 1) {
+            const lastEl = window.document.getElementById(lineIds[lineIds.length - 1]);
+            const bottom = lastEl.offsetTop + lastEl.offsetHeight;
+            height = bottom - top;
+          }
+          if (top !== null && height !== null && parent !== null) {
+            // cook up a div (if necessary) and position it 
+            let div = window.document.getElementById("code-annotation-line-highlight");
+            if (div === null) {
+              div = window.document.createElement("div");
+              div.setAttribute("id", "code-annotation-line-highlight");
+              div.style.position = 'absolute';
+              parent.appendChild(div);
+            }
+            div.style.top = top - 2 + "px";
+            div.style.height = height + 4 + "px";
+            let gutterDiv = window.document.getElementById("code-annotation-line-highlight-gutter");
+            if (gutterDiv === null) {
+              gutterDiv = window.document.createElement("div");
+              gutterDiv.setAttribute("id", "code-annotation-line-highlight-gutter");
+              gutterDiv.style.position = 'absolute';
+              const codeCell = window.document.getElementById(targetCell);
+              const gutter = codeCell.querySelector('.code-annotation-gutter');
+              gutter.appendChild(gutterDiv);
+            }
+            gutterDiv.style.top = top - 2 + "px";
+            gutterDiv.style.height = height + 4 + "px";
+          }
+          selectedAnnoteEl = annoteEl;
+        }
+      };
+      const unselectCodeLines = () => {
+        const elementsIds = ["code-annotation-line-highlight", "code-annotation-line-highlight-gutter"];
+        elementsIds.forEach((elId) => {
+          const div = window.document.getElementById(elId);
+          if (div) {
+            div.remove();
+          }
+        });
+        selectedAnnoteEl = undefined;
+      };
+      // Attach click handler to the DT
+      const annoteDls = window.document.querySelectorAll('dt[data-target-cell]');
+      for (const annoteDlNode of annoteDls) {
+        annoteDlNode.addEventListener('click', (event) => {
+          const clickedEl = event.target;
+          if (clickedEl !== selectedAnnoteEl) {
+            unselectCodeLines();
+            const activeEl = window.document.querySelector('dt[data-target-cell].code-annotation-active');
+            if (activeEl) {
+              activeEl.classList.remove('code-annotation-active');
+            }
+            selectCodeLines(clickedEl);
+            clickedEl.classList.add('code-annotation-active');
+          } else {
+            // Unselect the line
+            unselectCodeLines();
+            clickedEl.classList.remove('code-annotation-active');
+          }
+        });
+      }
   const findCites = (el) => {
     const parentEl = el.parentElement;
     if (parentEl) {
@@ -395,7 +502,13 @@ window.document.addEventListener("DOMContentLoaded", function (event) {
 </div> <!-- /content -->
 <footer class="footer">
   <div class="nav-footer">
-      <div class="nav-footer-center">Copyright (c) 2022, Anish. S. Shah, MD, MS</div>
+    <div class="nav-footer-left">
+      &nbsp;
+    </div>   
+    <div class="nav-footer-center">Copyright (c) 2023, Anish. S. Shah, MD, MS</div>
+    <div class="nav-footer-right">
+      &nbsp;
+    </div>
   </div>
 </footer>
 
