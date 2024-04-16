@@ -17,7 +17,7 @@ website:
         href: https://asshah4.github.io/clinical
       - text: Talks
         href: talks.html
-      - text: Projects
+      - text: Software
         menu:
           - text: "R/orbs"
             href: https://asshah4.github.io/orbs
@@ -29,6 +29,8 @@ website:
             href: https://asshah4.github.io/card
           - text: "R/lzrs"
             href: https://asshah4.github.io/lzrs
+          - text: "R/hrd"
+            href: https://asshah4.github.io/hrd
       - text: Notes
         href: https://asshah4.github.io/notes
     right:
