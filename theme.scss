@@ -1,13 +1,15 @@
 /*-- scss:defaults --*/
 
-$primary: 		#0a3d72 		!default;
-$secondary: 	#008083			!default;
-$success: 		#faab36			!default;
-$info: 				#249ea0 		!default;
-$warning: 		#9b2226 		!default;
-$danger: 			#f78104 		!default;
-$light: 			#e9d8a6			!default;
-$dark: 				#001219 		!default;
+/* basic colors for highlighting themes */
+/* based off of the PTOL color scheme */
+$primary: 		#2b85a8 		!default;
+$secondary: 	#dae4e7			!default;
+$success: 		#fea54d			!default;
+$info: 				#82cbec 		!default;
+$warning: 		#ec5825 		!default;
+$danger: 			#a01813 		!default;
+$light: 			#f1e3a9			!default;
+$dark: 				#125a56 		!default;
 
 /* highlighting colors */
 $my-grey: #455964;
