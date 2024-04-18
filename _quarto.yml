@@ -58,12 +58,14 @@ format:
   html:
     theme:
       - flatly
-      - theme.scss
+      - colors.scss
     highlight: solarized-light
     toc: true
     toc_float: true
   revealjs:
-    theme: [simple, styles.scss]
+    theme:
+      - simple
+      - colors.scss
     slide-tone: true
     fig-cap-location: bottom
     fig-align: center
