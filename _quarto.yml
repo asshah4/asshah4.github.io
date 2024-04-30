@@ -10,34 +10,34 @@ website:
       - href: index.qmd
         text: Me
       - text: Curriculum Vitae
-        href: https://asshah4.github.io/cv/vitae.pdf
+        href: https://shah-in-boots.github.io/cv/vitae.pdf
       - text: Research
-        href: https://asshah4.github.io/research
+        href: https://shah-in-boots.github.io/research
       - text: Clinical
-        href: https://asshah4.github.io/clinical
+        href: https://shah-in-boots.github.io/clinical
       - text: Talks
         href: talks.html
       - text: Software
         menu:
           - text: "R/orbs"
-            href: https://asshah4.github.io/orbs
+            href: https://shah-in-boots.github.io/orbs
           - text: "R/vlndr"
-            href: https://asshah4.github.io/vlndr
+            href: https://shah-in-boots.github.io/vlndr
           - text: "R/shiva"
-            href: https://asshah4.github.io/shiva
+            href: https://shah-in-boots.github.io/shiva
           - text: "R/card"
-            href: https://asshah4.github.io/card
+            href: https://shah-in-boots.github.io/card
           - text: "R/lzrs"
-            href: https://asshah4.github.io/lzrs
+            href: https://shah-in-boots.github.io/lzrs
           - text: "R/hrd"
-            href: https://asshah4.github.io/hrd
+            href: https://shah-in-boots.github.io/hrd
       - text: Notes
-        href: https://asshah4.github.io/notes
+        href: https://shah-in-boots.github.io/notes
     right:
       - icon: envelope
         href: mailto:ashah282@uic.edu
       - icon: github
-        href: http://github.com/asshah4
+        href: http://github.com/shah-in-boots
       - icon: twitter
         href: https://twitter.com/shah_in_boots
       - icon: linkedin
