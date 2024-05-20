@@ -1,6 +1,7 @@
 ---
 title: Me
 format: html
+lightbox: true
 ---
 
 # I
