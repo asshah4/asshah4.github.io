@@ -8,7 +8,7 @@ lightbox: true
 
 Howdy!
 
-I am a physician and scientist, in continual training for both.
+I am a physician and scientist, in perpetual training for both.
 
 I'm initially received my [baccalaureate](http://linguistics.emory.edu/home/) in linguistics and behavioral neuroscience from Emory University.
 
@@ -32,4 +32,10 @@ Together, we are the dog-parents to our super-smart and super-sassy dogs, Harper
 
 # III
 
-I ...
+I am fascinated by stress and arrhythmias, and approach these topics through the lens of computational neurocardiology. 
+As an avid programmer, I enjoy the methodology behind these research arms:
+
+1. Epidemiology and causality, heavily influenced by biostatistical approaches
+1. Signal processing of surface electrocardiograms and intracardiac electrograms, utilizing both heuristic and machine learning techniques
+1. Genetic and epigenetic modifiers of arrhythmias
+
