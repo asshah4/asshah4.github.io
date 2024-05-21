@@ -57,8 +57,12 @@ csl: ../bibliography/jacc.csl
 format:
   html:
     theme:
-      - flatly
-      - colors.scss
+      light:
+        - flatly
+        - colors.scss
+      dark:
+        - darkly
+        - colors.scss
     highlight: solarized-light
     toc: true
     toc_float: true
