@@ -10,7 +10,7 @@ website:
       - href: index.qmd
         text: Me
       - text: Curriculum Vitae
-        href: https://shah-in-boots.github.io/cv/vitae.pdf
+        href: https://shah-in-boots.github.io/cv
       - text: Research
         href: https://shah-in-boots.github.io/research
       - text: Clinical
