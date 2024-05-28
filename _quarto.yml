@@ -19,18 +19,18 @@ website:
         href: talks.html
       - text: Software
         menu:
+          - text: "R/card"
+            href: https://shah-in-boots.github.io/card
+          - text: "R/hrd"
+            href: https://shah-in-boots.github.io/hrd
+          - text: "R/EGM"
+            href: https://shah-in-boots.github.io/EGM
           - text: "R/orbs"
             href: https://shah-in-boots.github.io/orbs
           - text: "R/rmdl"
             href: https://shah-in-boots.github.io/rmdl
-          - text: "R/EGM"
-            href: https://shah-in-boots.github.io/EGM
-          - text: "R/card"
-            href: https://shah-in-boots.github.io/card
           - text: "R/rcr"
             href: https://shah-in-boots.github.io/rcr
-          - text: "R/hrd"
-            href: https://shah-in-boots.github.io/hrd
       - text: Notes
         href: https://shah-in-boots.github.io/notes
     right:
