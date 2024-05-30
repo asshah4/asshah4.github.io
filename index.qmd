@@ -18,9 +18,9 @@ I completed my initial clinical training as a resident physician of the [J. Will
 I subsequently completed by initial research training at Emory in the Rollins School of Public Health, receiving a NIH-TL1 award and completing my [master's degree](https://med.emory.edu/departments/biomedical-informatics/education/masters.html).
 
 I then moved to Chicago to for further clinical training as a cardiology fellow at the [University of Illinois at Chicago](https://chicago.medicine.uic.edu/departments/academic-departments/medicine/cardiology/education/fellowship-program/) and the [Jesse Brown VA](https://www.va.gov/chicago-health-care/locations/jesse-brown-department-of-veterans-affairs-medical-center/).
-I was awarded and an NIH-F32 award and completed it on the research track as part of the institutional T32 program.
+I completed an NIH-F32 award during the research track of our institutional T32 program in personalized cardiovascular medicine.
 
-I am now moving to the [University of Utah](https://medicine.utah.edu/internal-medicine/cardiovascular-medicine) to (hopefully) complete my training in cardiac electrophysiology.
+I am now moving to the [University of Utah](https://medicine.utah.edu/internal-medicine/cardiovascular-medicine) to complete my training in cardiac electrophysiology.
 
 # II
 
@@ -32,7 +32,7 @@ Together, we are the dog-parents to our super-smart and super-sassy dogs, Harper
 
 # III
 
-I am fascinated by stress and arrhythmias, and approach these topics through the lens of computational neurocardiology. 
+I research stress and arrhythmias, and approach these topics through the lens of computational neurocardiology. 
 As an avid programmer, I enjoy the methodology behind these research arms:
 
 1. Epidemiology and causality, heavily influenced by biostatistical approaches
