@@ -4,7 +4,7 @@
     "href": "index.html",
     "title": "Me",
     "section": "",
-    "text": "I\nHowdy!\nI am a physician and scientist, in perpetual training for both.\nI’m initially received my baccalaureate in linguistics and behavioral neuroscience from Emory University.\nI returned to Texas to receive my doctorate from Texas A&M University.\nI completed my initial clinical training as a resident physician of the J. Willis Hurst Internal Medicine Residency program at Emory University. I subsequently completed by initial research training at Emory in the Rollins School of Public Health, receiving a NIH-TL1 award and completing my master’s degree.\nI then moved to Chicago to for further clinical training as a cardiology fellow at the University of Illinois at Chicago and the Jesse Brown VA. I was awarded and an NIH-F32 award and completed it on the research track as part of the institutional T32 program.\nI am now moving to the University of Utah to (hopefully) complete my training in cardiac electrophysiology.\n\n\nII\nI am a husband to a beautiful and kind and wonderful wife, who has supported me every step of the way.\n\n\n\nOur beautiful boy and girl accompanying us on our wedding day\n\n\nTogether, we are the dog-parents to our super-smart and super-sassy dogs, Harper and Ripley.\n\n\nIII\nI am fascinated by stress and arrhythmias, and approach these topics through the lens of computational neurocardiology. As an avid programmer, I enjoy the methodology behind these research arms:\n\nEpidemiology and causality, heavily influenced by biostatistical approaches\nSignal processing of surface electrocardiograms and intracardiac electrograms, utilizing both heuristic and machine learning techniques\nGenetic and epigenetic modifiers of arrhythmias\n\n\n\n\nOur beautiful boy and girl accompanying us on our wedding day"
+    "text": "Anish S. Shah is a physician and scientist, a dog-dad, and husband. He can be found hiking, climbing, and troubleshooting code over coffee."
   },
   {
     "objectID": "talks.html",
@@ -40,5 +40,26 @@
     "title": "Talks",
     "section": "Cardiology Fellowship",
     "text": "Cardiology Fellowship\n\nMarch 27, 2023 Morbidity and mortality conference on adjunctive cardiac surgeries during valve replacement.\nJanuary 24, 2023 Brief cardiac catheterization case conference on complex/staged PCI.\nDecember 08, 2022 A case of typical AVNRT in the EP lab, with EGM recordings as the primary focus. These include surface ECG, EGM, and pacing maneuvers.\nMay 24, 2022 Brief cardiac catheterization case conference discussion of a triple-vessel disease patient with UGIB that was surgically turned down for bypass, pending surgery for infection.\nFebruary 16, 2022 Pulmonary Embolism Response Team introduction and overview at the Jesse Brown VA system for the internal medicine residency.\nFebruary 08, 2022 Pulmonary Embolism Response Team introduction and overview at the Jesse Brown VA system for both medicine residents and cardiology fellows.\nDecember 07, 2021 Short cardiac catheterization case conference on a NSTEMI that may benefit from CABG, a ICM that may benefit from protected PCI, and a complex, heavily calcific peripheral case.\nNovember 30, 2021 Illinois Medical District Cath Conference presentation on Wellen’s Syndrome in a LAD STEMI patient.\nNovember 23, 2021 Short cardiac catheterization case conference on a late-presenting STEMI at the time of a massive CVA, and a standard peripheral intervention to the left iliac arteries.\nNovember 16, 2021 Short cardiac catheterization case conference with a two-vessel CAD pre-transplant that was revascularized, and two STEMI cases.\nNovember 09, 2021 Short cardiac catheterization case conference with an anterior STEMI and no-reflow to LAD.\nOctober 18, 2021 A mortality and morbidity conference on rheumatic heart disease and mitral stenosis, deferring percutaneous balloon mitral valvuloplasty for surgical mechanical mitral valve replacement.\nOctober 12, 2021 Short cardiac catheterization case conference, with RCA Shockwave, interesting coronary anatomy, and a case of false-positive stress testing with anginal symptoms.\nOctober 05, 2021 Short cardiac catheterization case conference, with LM bifurcation disease using DK crush, a LAD orbital atherectomy case, and a high right radial with severe spasm.\nSeptember 28, 2021 Short cardiac catheterization case conference, with a focus on severe disease\nSeptember 28, 2021 An introduction to femoral access for new cardiology fellows.\nSeptember 09, 2021 Short cardiac catheterization case conference, with a focus on CABG revascularization\nJune 01, 2021 Cardiac catheterization lab conference, with a few STEMIs from call.\nMarch 16, 2021 Cardiac catheterization lab conference, with a focus of three PCI cases.\nFebruary 01, 2021 A journal club on GALACTIC-HF\nDecember 23, 2020 A brief overview of cardiac tamponade for the POCUS curriculum for internal medicine residents.\nDecember 14, 2020 An interesting case of restrictive cardiomyopathy, including workup and consideration of alternative etiologies."
+  },
+  {
+    "objectID": "index.html#timeline",
+    "href": "index.html#timeline",
+    "title": "Me",
+    "section": "Timeline",
+    "text": "Timeline\n\nCurrently at the University of Utah as a fellow in cardiac electrophysiology (2024 – 2026)\nClinical and research training as a cardiology fellow at the University of Illinois at Chicago, supported by an NIH-F32 award. Primary mentor: Dr. Dawood Darbar (2020 – 2024)\nDuring a NIH-TL1 award, completed a master’s degree at Emory University. Primary mentor: Dr. Amit J. Shah (2019 – 2021)\nClinical training as a resident physician at the J. Willis Hurst Internal Medicine Residency program at Emory University (2016 – 2019)\nDoctorate in medicine at Texas A&M University (2012 – 2016)\nBaccalaureate in linguistics and behavioral neuroscience at Emory University (2007 – 2011)"
+  },
+  {
+    "objectID": "index.html#interests",
+    "href": "index.html#interests",
+    "title": "Me",
+    "section": "Interests",
+    "text": "Interests"
+  },
+  {
+    "objectID": "index.html#academic-interests",
+    "href": "index.html#academic-interests",
+    "title": "Me",
+    "section": "Academic Interests",
+    "text": "Academic Interests\n\nStress and arrhythmogenesis\nSignal processing and machine learning\nMedical history and medical education\nInformation theory"
   }
 ]

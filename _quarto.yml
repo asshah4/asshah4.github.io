@@ -34,14 +34,8 @@ website:
       - text: Notes
         href: https://shah-in-boots.github.io/notes
     right:
-      - icon: envelope
-        href: mailto:ashah282@uic.edu
       - icon: github
         href: http://github.com/shah-in-boots
-      - icon: twitter
-        href: https://twitter.com/shah_in_boots
-      - icon: linkedin
-        href: https://www.linkedin.com/in/anish-shah-326991177/
   page-navigation: true
   page-footer: "Copyright (c) 2024, Anish. S. Shah, MD, MS"
 
@@ -66,11 +60,3 @@ format:
     highlight: solarized-light
     toc: true
     toc_float: true
-  revealjs:
-    theme:
-      - simple
-      - colors.scss
-    slide-tone: true
-    fig-cap-location: bottom
-    fig-align: center
-    fig-responsive: true

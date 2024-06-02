@@ -2,40 +2,36 @@
 title: Me
 format: html
 lightbox: true
+about:
+  template: trestles
+  image: figures/me-standing.png
+  links:
+  - icon: envelope
+    text: e-mail
+    href: mailto:ashah282@uic.edu
+  - icon: github
+    href: http://github.com/shah-in-boots
+  - icon: twitter
+    href: https://twitter.com/shah_in_boots
+  - icon: linkedin
+    text: linkedin
+    href: https://www.linkedin.com/in/anish-shah-326991177/
 ---
 
-# I
+Anish S. Shah is a physician and scientist, a dog-dad, and husband. He can be found hiking, climbing, and troubleshooting code over coffee.
 
-Howdy!
+## Timeline
 
-I am a physician and scientist, in perpetual training for both.
+1. Currently at the [University of Utah](https://medicine.utah.edu/internal-medicine/cardiovascular-medicine) as a fellow in cardiac electrophysiology (*2024* -- *2026*)
+1. Clinical and research training as a cardiology fellow at the [University of Illinois at Chicago](https://chicago.medicine.uic.edu/departments/academic-departments/medicine/cardiology/education/fellowship-program/), supported by an NIH-F32 award. Primary mentor: [Dr. Dawood Darbar](https://chicago.medicine.uic.edu/medicine/profiles/darbar-dawood/) (*2020* -- *2024*)
+1. During a NIH-TL1 award, completed a [master's degree](https://med.emory.edu/departments/biomedical-informatics/education/masters.html) at Emory University. Primary mentor: [Dr. Amit J. Shah](https://med.emory.edu/directory/profile/?u=AJSHAH3) (*2019* -- *2021*)
+1. Clinical training as a resident physician at the [J. Willis Hurst Internal Medicine Residency](https://med.emory.edu/departments/medicine/education/residency-program/index.html) program at Emory University (*2016* -- *2019*)
+1. [Doctorate in medicine](https://medicine.tamu.edu) at Texas A&M University (*2012* -- *2016*)
+1. [Baccalaureate in linguistics](http://linguistics.emory.edu/home/) and behavioral neuroscience at Emory University (*2007* -- *2011*)
 
-I'm initially received my [baccalaureate](http://linguistics.emory.edu/home/) in linguistics and behavioral neuroscience from Emory University.
+## Academic Interests
 
-I returned to Texas to receive my doctorate from [Texas A&M University](https://medicine.tamu.edu).
-
-I completed my initial clinical training as a resident physician of the [J. Willis Hurst Internal Medicine Residency](https://med.emory.edu/departments/medicine/education/residency-program/index.html) program at Emory University. 
-I subsequently completed by initial research training at Emory in the Rollins School of Public Health, receiving a NIH-TL1 award and completing my [master's degree](https://med.emory.edu/departments/biomedical-informatics/education/masters.html).
-
-I then moved to Chicago to for further clinical training as a cardiology fellow at the [University of Illinois at Chicago](https://chicago.medicine.uic.edu/departments/academic-departments/medicine/cardiology/education/fellowship-program/) and the [Jesse Brown VA](https://www.va.gov/chicago-health-care/locations/jesse-brown-department-of-veterans-affairs-medical-center/).
-I completed an NIH-F32 award during the research track of our institutional T32 program in personalized cardiovascular medicine.
-
-I am now moving to the [University of Utah](https://medicine.utah.edu/internal-medicine/cardiovascular-medicine) to complete my training in cardiac electrophysiology.
-
-# II
-
-I am a husband to a beautiful and kind and wonderful wife, who has supported me every step of the way.
-
-![Our beautiful boy and girl accompanying us on our wedding day](./figures/family-photo-mahr.jpg)
-
-Together, we are the dog-parents to our super-smart and super-sassy dogs, Harper and Ripley.
-
-# III
-
-I research stress and arrhythmias, and approach these topics through the lens of computational neurocardiology. 
-As an avid programmer, I enjoy the methodology behind these research arms:
-
-1. Epidemiology and causality, heavily influenced by biostatistical approaches
-1. Signal processing of surface electrocardiograms and intracardiac electrograms, utilizing both heuristic and machine learning techniques
-1. Genetic and epigenetic modifiers of arrhythmias
-
+- Stress and arrhythmogenesis
+- Signal processing and machine learning
+- Medical history and medical education
+- Information theory
