@@ -10,8 +10,10 @@ about:
     text: e-mail
     href: mailto:ashah282@uic.edu
   - icon: github
+    text: github
     href: http://github.com/shah-in-boots
   - icon: twitter
+    text: twitter
     href: https://twitter.com/shah_in_boots
   - icon: linkedin
     text: linkedin
